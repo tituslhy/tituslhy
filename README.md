@@ -3,6 +3,8 @@
 🥅 2023 Goals: Train to be a full stack developer - I've been wanting do this for awhile! <br>
 ♔ Fun fact: My passion is playing chess! <br>
 
+[<img align="left" alt="Titus | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 ### Languages and Tools:
 
 <img align="left" title="Python" width="52px" src="./Pictures/python.png" />
@@ -14,3 +16,5 @@
 <img align="left" title="Amazon Web Services" width="52px" src="./Pictures/aws.png" />
 <img align="left" title="Tableau" width="52px" src="./Pictures/tableau.png" />
 <img align="left" title="GitHub" width="52px" src="./Pictures/github.png" /><br />
+
+[linkedin]: https://www.linkedin.com/in/titus-lim-hsien-yong/
