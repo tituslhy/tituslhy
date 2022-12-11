@@ -28,7 +28,7 @@
 
 <br>
 
-### Alma Mater:
+<h2> Alma Mater </h2>:
 <img align="left" title="SMU" width="200px" src="./Pictures/smumitb.png" />
 <img align="left" title="NUS" width="200px" src="./Pictures/nuschbe.jpeg" />
 
