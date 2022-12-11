@@ -6,6 +6,8 @@
 ### Let's connect!:
 [<img align="left" alt="Titus | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+<br>
+
 ### Languages and Tools:
 
 <img align="left" title="Python" width="52px" src="./Pictures/python.png" />
