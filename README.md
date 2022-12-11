@@ -26,7 +26,7 @@
 <img align="left" title="Amazon Web Services" width="52px" src="./Pictures/aws.png" />
 <img align="left" title="GitHub" width="52px" src="./Pictures/github.png" /><br />
 
-<br>
+<br><br><br>
 
 <h2> Alma Mater </h2>:
 <img align="left" title="SMU" width="200px" src="./Pictures/smumitb.png" />
