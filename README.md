@@ -31,6 +31,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
 <br>
+<img align="left" title="Huggingface" width="120px" src="./Pictures/huggingface.png" />
 <img align="left" title="Pyomo" width="120px" src="./Pictures/pyomo.png" />
 <img align="left" title="Networkx" width="150px" src="./Pictures/networkx.svg" />
 <img align="left" title="SAS" width="80x" src="./Pictures/sas.svg" />
