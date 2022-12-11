@@ -14,5 +14,3 @@
 <img align="left" title="Amazon Web Services" width="52px" src="./Pictures/aws.png" />
 <img align="left" title="Tableau" width="52px" src="./Pictures/tableau.png" />
 <img align="left" title="GitHub" width="52px" src="./Pictures/github.png" /><br />
-
-<br /><br /><br /><br />
