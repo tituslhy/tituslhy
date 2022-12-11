@@ -13,22 +13,22 @@
 
 <br>
 
-### I code in:
-
+<h3> Languages I code in:</h3>
+<p>
 <img align="left" title="Python" width="52px" src="./Pictures/python.png" />
 <img align="left" title="R" width="52px" src="./Pictures/r.png" />
 <img align="left" title="SQL" width="208px" src="./Pictures/PostGreSQL.png" />
 <img align="left" title="Tableau" width="52px" src="./Pictures/tableau.png" />
-<br>
+</p>
 
-### I use the following tools often:
+<h3> Tools I use often: </h3>
+<p>
 <img align="left" title="Tensorflow" width="52px" src="./Pictures/tf.png" />
 <img align="left" title="PyTorch" width="52px" src="./Pictures/torch.webp" />
 <img align="left" title="Google Cloud Platform" width="52px" src="./Pictures/gcp.webp" />
 <img align="left" title="Amazon Web Services" width="52px" src="./Pictures/aws.png" />
 <img align="left" title="GitHub" width="52px" src="./Pictures/github.png" /><br />
-
-<br>
+</p>
 
 ### Alma Mater:
 <img align="left" title="SMU" width="200px" src="./Pictures/smumitb.png" />
