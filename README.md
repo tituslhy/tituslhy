@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello! Nice to see you.</h1>
 
 
-<p>Welcome to my GitHub page! </br> My name is Titus and I'm a data scientist from <img src="./Pictures/singapore.png" width="13"/> <b>Singapore</b>
+<p>Welcome to my GitHub page! </br> My name is Titus and I'm a data scientist from <img src="./Pictures/singapore.png" width="50"/> <b>Singapore</b>
 
 🏫 I’ve graduated from the Singapore Management University's Master of IT in Business (Artificial Intelligence Track) program - those nights spent learning the fundamentals of AI (computer vision, natural language processing, recommender systems, machine learning, etc) were so much fun!<br>
 🌱 I’m currently learning more about Machine Learning Engineering (Cloud Computing, deployment, etc.)! <br>
