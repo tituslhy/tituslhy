@@ -30,6 +30,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <br>
 <img align="left" title="Pyomo" width="120px" src="./Pictures/pyomo.png" />
+<br><br><br>
 
 ### Alma Mater:
 <img align="left" title="SMU" width="200px" src="./Pictures/smumitb.png" />
