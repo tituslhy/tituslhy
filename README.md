@@ -8,7 +8,6 @@
 🥅 Other goals outside of data science: <br>
 1. Train to be a full stack developer - I've been wanting do this for awhile! <br>
 2. Learn a new programming language - just for fun 🤣 Let me know if you have any recommendations, I'm currently thinking about learning 'Go'. <br>
-♟️ Fun fact: My passion is playing chess! <br>
 
 ### Let's connect!:
 [<img align="left" alt="Titus | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
