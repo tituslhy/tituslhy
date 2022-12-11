@@ -3,9 +3,11 @@
 
 <p><b> Welcome to my GitHub page! </br> My name is Titus and I'm a data scientist from <img src="./Pictures/singapore.png" width="50"/> Singapore</b>
 
-🏫 I’ve graduated with my Masters degree in Artificial Intelligence - those nights spent learning the fundamentals of AI (computer vision, natural language processing, recommender systems, machine learning, machine learning engineering, etc) were very memorable!<br>
+🏫 I’ve graduated with my Masters degree in Artificial Intelligence 👨‍🎓 - those nights spent learning the fundamentals of AI (computer vision, natural language processing, recommender systems, machine learning, machine learning engineering, etc) were very memorable!<br>
 🌱 I’m currently learning more about Mathematical Programming (optimization) and Machine Learning Engineering techniques (cloud computing, model deployment techniques, etc.) 👨‍💻! <br>
-🥅 2023 Goals: Train to be a full stack developer - I've been wanting do this for awhile! <br>
+🥅 Other goals outside of data science: <br>
+1. Train to be a full stack developer - I've been wanting do this for awhile! <br>
+2. Learn a new programming language - just for fun 🤣 Let me know if you have any recommendations, I'm currently thinking about learning 'Go'. <br>
 ♔ Fun fact: My passion is playing chess! <br>
 
 ### Let's connect!:
