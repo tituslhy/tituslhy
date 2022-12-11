@@ -1,3 +1,8 @@
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+
+
+<p>Welcome to my GitHub page! </br> My name is Titus and I'm a data scientist from <img src="https://www.flaticon.com/free-icon/singapore_4489269" width="13"/> <b>Singapore 
+
 🏫 I’m currently working as a Data Scientist - in God we trust, for all other things bring data.<br>
 🌱 I’m currently learning everything related to AI (Computer Vision, Natural Language Processing, Recommender Systems, Machine Learning etc.) and Machine Learning Engineering (Cloud Computing, deployment, etc.)! <br>
 🥅 2023 Goals: Train to be a full stack developer - I've been wanting do this for awhile! <br>
