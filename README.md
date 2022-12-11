@@ -32,6 +32,8 @@
 <br>
 <img align="left" title="Pyomo" width="120px" src="./Pictures/pyomo.png" />
 <img align="left" title="Networkx" width="150px" src="./Pictures/networkx.svg" />
+<img align="left" title="SAS" width="120px" src="./Pictures/sas.svg" />
+<img align="left" title="DataRobot" width="120px" src="./Pictures/datarobot.png" />
 <br><br><br>
 
 ### Alma Mater:
