@@ -25,6 +25,7 @@
 <img align="left" title="Tableau" width="52px" src="./Pictures/tableau.png" />
 <img align="left" title="GitHub" width="52px" src="./Pictures/github.png" /><br />
 
+<br>
 
 ### Alma Mater:
 <img align="left" title="Python" width="200px" src="./Pictures/smumitb.png" />
