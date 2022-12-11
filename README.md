@@ -23,7 +23,7 @@
 
 ### Frameworks and tools I use:
 <img align="left" title="Tensorflow" width="52px" src="./Pictures/tf.png" />
-<img align="left" title="PyTorch" width="52px" src="./Pictures/torch.webp" />
+<img align="left" title="PyTorch" width="52px" src="./Pictures/torch.png" />
 <img align="left" title="Pyomo" width="208px" src="./Pictures/pyomo.png" />
 <img align="left" title="Google Cloud Platform" width="52px" src="./Pictures/gcp.webp" />
 <img align="left" title="Amazon Web Services" width="52px" src="./Pictures/aws.png" />
