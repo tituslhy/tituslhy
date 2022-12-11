@@ -21,6 +21,8 @@
 <img align="left" title="Tableau" width="52px" src="./Pictures/tableau.png" />
 </p>
 
+<br>
+
 <h3> Tools I use often: </h3>
 <p>
 <img align="left" title="Tensorflow" width="52px" src="./Pictures/tf.png" />
