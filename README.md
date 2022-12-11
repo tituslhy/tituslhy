@@ -28,8 +28,10 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
 <br>
 <img align="left" title="Pyomo" width="120px" src="./Pictures/pyomo.png" />
+<img align="left" title="Networkx" width="120px" src="./Pictures/networkx.svg" />
 <br><br><br>
 
 ### Alma Mater:
