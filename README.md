@@ -31,7 +31,7 @@
 ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
 <br>
 <img align="left" title="Pyomo" width="120px" src="./Pictures/pyomo.png" />
-<img align="left" title="Networkx" width="120px" src="./Pictures/networkx.svg" />
+<img align="left" title="Networkx" width="150px" src="./Pictures/networkx.svg" />
 <br><br><br>
 
 ### Alma Mater:
