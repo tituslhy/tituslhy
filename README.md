@@ -3,7 +3,7 @@
 
 <p><b> Welcome to my GitHub page! </br> My name is Titus and I'm a data scientist from <img src="./Pictures/singapore.png" width="50"/> Singapore</b>
 
-🏫 I’ve graduated from the <img src="./Pictures/smumitb.png" width="200"/> Artificial Intelligence specialization program - those nights spent learning the fundamentals of AI (computer vision, natural language processing, recommender systems, machine learning, etc) were so much fun!<br>
+🏫 I’ve graduated with my Masters degree in Artificial Intelligence - those nights spent learning the fundamentals of AI (computer vision, natural language processing, recommender systems, machine learning, etc) were very memorable!<br>
 🌱 I’m currently learning more about Machine Learning Engineering (Cloud Computing, deployment, etc.)! <br>
 🥅 2023 Goals: Train to be a full stack developer - I've been wanting do this for awhile! <br>
 ♔ Fun fact: My passion is playing chess! <br>
@@ -24,5 +24,9 @@
 <img align="left" title="Amazon Web Services" width="52px" src="./Pictures/aws.png" />
 <img align="left" title="Tableau" width="52px" src="./Pictures/tableau.png" />
 <img align="left" title="GitHub" width="52px" src="./Pictures/github.png" /><br />
+
+
+### Alma Mater:
+<img align="left" title="Python" width="200px" src="./Pictures/smumitb.png" />
 
 [linkedin]: https://www.linkedin.com/in/titus-lim-hsien-yong/
