@@ -13,7 +13,7 @@
 
 <br>
 
-### Languages and Tools:
+### I code in:
 
 <img align="left" title="Python" width="52px" src="./Pictures/python.png" />
 <img align="left" title="R" width="52px" src="./Pictures/r.png" />
@@ -21,6 +21,7 @@
 <img align="left" title="Tableau" width="52px" src="./Pictures/tableau.png" />
 <br>
 
+### I use the following tools often:
 <img align="left" title="Tensorflow" width="52px" src="./Pictures/tf.png" />
 <img align="left" title="PyTorch" width="52px" src="./Pictures/torch.webp" />
 <img align="left" title="Google Cloud Platform" width="52px" src="./Pictures/gcp.webp" />
