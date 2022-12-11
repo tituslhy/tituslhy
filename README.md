@@ -23,11 +23,11 @@
 
 ### Frameworks and tools I use:
 <img align="left" title="Tensorflow" width="104px" src="./Pictures/tf.png" />
-<img align="left" title="PyTorch" width="208px" src="./Pictures/torch.png" />
-<img align="left" title="Pyomo" width="208px" src="./Pictures/pyomo.png" />
-<img align="left" title="Google Cloud Platform" width="52px" src="./Pictures/gcp.webp" />
-<img align="left" title="Amazon Web Services" width="52px" src="./Pictures/aws.png" />
-<img align="left" title="GitHub" width="52px" src="./Pictures/github.png" /><br />
+<img align="left" title="PyTorch" width="104px" src="./Pictures/torch.png" />
+<img align="left" title="Pyomo" width="104px" src="./Pictures/pyomo.png" />
+<img align="left" title="Google Cloud Platform" width="104px" src="./Pictures/gcp.webp" />
+<img align="left" title="Amazon Web Services" width="104px" src="./Pictures/aws.png" />
+<img align="left" title="GitHub" width="104px" src="./Pictures/github.png" /><br />
 <br><br>
 
 ### Alma Mater:
