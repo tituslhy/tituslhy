@@ -38,7 +38,7 @@
 <img align="left" title="DataRobot" width="50px" src="./Pictures/datarobot.png" />
 <br><br>
 
-### <h3>My projects</h3>
+### <h3>Featured projects</h3>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -54,6 +54,22 @@
     <tr>
       <td><a href="https://github.com/quekhyg/NLP-Lyric-Generator"><b>A Song for Singapore</b></a></td>
       <td><img alt="Natural Language Processing" src="https://img.shields.io/badge/AI-Natural%20Language%20Processing-blue"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/teyang-lau/coffee-joint-rec-sys"><b>The Coffee Recommender System</b></a></td>
+      <td><img alt="Computer Vision" src="https://img.shields.io/badge/AI-Computer%20Vision-blue"/></td>
+      <td><img alt="Natural Language Processing" src="https://img.shields.io/badge/AI-Natural%20Language%20Processing-blue"/></td>
+      <td><img alt="Recommender Systems" src="https://img.shields.io/badge/AI-Recommender%20Systems-blue"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/spencerkmarley/cs612-ai-sys-eval-project"><b>AI Backdoor Catcher</b></a></td>
+      <td><img alt="Computer Vision" src="https://img.shields.io/badge/AI-Computer%20Vision-blue"/></td>
+      <td><img alt="AI Systems Security" src="https://img.shields.io/badge/AI-AI%20Systems%20Security-blue"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/tituslhy/Face-mask-classification"><b>Face Mask Classification</b></a></td>
+      <td><img alt="Computer Vision" src="https://img.shields.io/badge/AI-Computer%20Vision-blue"/></td>
+      <td><img alt="Google Cloud Platform" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/></td>
     </tr>
     
 [linkedin]: https://www.linkedin.com/in/titus-lim-hsien-yong/
