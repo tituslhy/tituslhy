@@ -55,18 +55,20 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/teyang-lau/you-only-edit-once"><b>You Only Edit Once</b></a></td>
-      <td>Using object detection models to trim and beautify diving videos - feel free to try it out here!<a href="https://you-only-edit-once.streamlit.app/"></td>
+      <td>Using object detection models to trim and beautify diving videos - feel free to try it out!</td>
       <td><img alt="Computer Vision" src="https://img.shields.io/badge/AI-Computer%20Vision-blue"/></td>
       <td><img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
          <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/quekhyg/NLP-Lyric-Generator"><b>A Song for Singapore</b></a></td>
+      <td>Using LSTM, GRU, Seq2Seq models and GPT-2 to write lyrics, melody, harmony and sing out Singapore's next national day song!</td>
       <td><img alt="Natural Language Processing" src="https://img.shields.io/badge/AI-Natural%20Language%20Processing-blue"/></td>
       <td><img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/teyang-lau/coffee-joint-rec-sys"><b>The Coffee Recommender System</b></a></td>
+      <td>Using deep learning and collaborative filtering to develop Singapore's coffee recommendation system.</td>
       <td><img alt="Computer Vision" src="https://img.shields.io/badge/AI-Computer%20Vision-blue"/>
       <img alt="Natural Language Processing" src="https://img.shields.io/badge/AI-Natural%20Language%20Processing-blue"/>
       <img alt="Recommender Systems" src="https://img.shields.io/badge/AI-Recommender%20Systems-blue"/></td>
@@ -75,6 +77,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/spencerkmarley/cs612-ai-sys-eval-project"><b>AI Backdoor Catcher</b></a></td>
+      <td>Using neural cleansing, neural attention distillation and other advanced methods to identify backdoors embedded in AI models</td>
       <td><img alt="Computer Vision" src="https://img.shields.io/badge/AI-Computer%20Vision-blue"/>
       <img alt="AI Systems Security" src="https://img.shields.io/badge/AI-AI%20Systems%20Security-blue"/></td>
       <td><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/></td>
@@ -86,12 +89,14 @@
     </tr>
     <tr>
       <td><a href="https://github.com/vannarath-poeu/aml-project"><b>Improving NYC 311 Efficiency</b></a></td>
+      <td>Forecasting closure duration of 311 complaints to support NYC agencies in case prioritization</td>
       <td><img alt="Machine Learning" src="https://img.shields.io/badge/Data%20Science-Applied%20Machine%20Learning-green"/></td>
       <td><img alt="SKLearn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
       <img align="left" title="XGBoost" width="100px" src="./Pictures/xgboost.png" /></td>
     </tr>
     <tr>
       <td><a href="https://medium.com/@yenjoon.tan.2020/the-iot-liquid-pipeline-monitoring-system-2c6e66d75b9d"><b>The IoT Liquid Pipeline Monitoring System</b></a></td>
+      <td>Developing an entire proof-of-concept for IoT-driven pipelines using Arduino, SQL and Python.</td>
       <td><img alt="IoT" src="https://img.shields.io/badge/IoT-Sensors-yellowgreen"/></td>
       <td><img alt="MQTT" src="https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white"/>
       <img align="left" title="Python" width="100px" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
