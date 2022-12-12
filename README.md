@@ -48,11 +48,11 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/teyang-lau/you-only-edit-once"><b>You Only Edit Once component</b></a></td>
+      <td><a href="https://github.com/teyang-lau/you-only-edit-once"><b>You Only Edit Once</b></a></td>
       <td><img alt="Computer Vision" src="https://img.shields.io/badge/AI-Computer%20Vision-Blue"/></td>
     </tr>
 
-<br><br><br>
+<br><br><br><br><br><br>
 ### Alma Mater:
 <img align="left" title="SMU" width="200px" src="./Pictures/smumitb.png" />
 <img align="left" title="NUS" width="150px" src="./Pictures/nuschbe.jpeg" />
