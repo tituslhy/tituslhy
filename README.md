@@ -87,13 +87,14 @@
     <tr>
       <td><a href="https://github.com/tituslhy/Face-mask-classification"><b>Face Mask Classification</b></a></td>
       <td>This was an attempt at developing and quantizing image classification models for deployment to edge device through GCP to support the government's COVID-19 face mask detection enforcement measures. </td>
-      <td><img alt="Computer Vision" src="https://img.shields.io/badge/AI-Computer%20Vision-blue"/></td>
+      <td><img alt="Computer Vision" src="https://img.shields.io/badge/AI-Computer%20Vision-blue"/>
+      <img alt="Machine Learning Engineering" src="https://img.shields.io/badge/ML-ML%20Engineering-green"/></td>
       <td><img alt="Google Cloud Platform" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/vannarath-poeu/aml-project"><b>Improving NYC 311 Efficiency</b></a></td>
       <td>Forecasting closure duration of 311 complaints to support NYC agencies in case prioritization</td>
-      <td><img alt="Machine Learning" src="https://img.shields.io/badge/Data%20Science-Applied%20Machine%20Learning-green"/></td>
+      <td><img alt="Machine Learning" src="https://img.shields.io/badge/ML-Machine%20Learning-green"/></td>
       <td><img alt="SKLearn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
       <img align="left" title="XGBoost" width="100px" src="./Pictures/xgboost.png" /></td>
     </tr>
