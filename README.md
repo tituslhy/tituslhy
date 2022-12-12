@@ -32,7 +32,7 @@
 ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
 <br>
 <img align="left" title="Huggingface" width="130px" src="./Pictures/huggingface.png" />
-<img align="left" title="XGBoost" width="120px" src="./Pictures/xgboost.png" />
+<img align="left" title="XGBoost" width="100px" src="./Pictures/xgboost.png" />
 <img align="left" title="Pyomo" width="120px" src="./Pictures/pyomo.png" />
 <img align="left" title="Networkx" width="150px" src="./Pictures/networkx.svg" />
 <img align="left" title="SAS" width="80x" src="./Pictures/sas.svg" />
@@ -83,7 +83,7 @@
       <td><a href="https://github.com/vannarath-poeu/aml-project"><b>Improving NYC 311 Efficiency</b></a></td>
       <td><img alt="Machine Learning" src="https://img.shields.io/badge/Data%20Science-Applied%20Machine%20Learning-green"/></td>
       <td><img alt="SKLearn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-      <img align="left" title="XGBoost" width="120px" src="./Pictures/xgboost.png" /></td>
+      <img align="left" title="XGBoost" width="100px" src="./Pictures/xgboost.png" /></td>
     </tr>
     
 [linkedin]: https://www.linkedin.com/in/titus-lim-hsien-yong/
