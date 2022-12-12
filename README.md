@@ -44,32 +44,38 @@
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
       <td><b>⭐ Domains</b></td>
+      <td><b>🛠️ Tools</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://github.com/teyang-lau/you-only-edit-once"><b>You Only Edit Once</b></a></td>
       <td><img alt="Computer Vision" src="https://img.shields.io/badge/AI-Computer%20Vision-blue"/></td>
+      <td><img alt="Tensorflow" src="[https://img.shields.io/badge/AI-Recommender%20Systems-blue](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)"/>
+         <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/quekhyg/NLP-Lyric-Generator"><b>A Song for Singapore</b></a></td>
       <td><img alt="Natural Language Processing" src="https://img.shields.io/badge/AI-Natural%20Language%20Processing-blue"/></td>
+      <td><img alt="Tensorflow" src="[https://img.shields.io/badge/AI-Recommender%20Systems-blue](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/teyang-lau/coffee-joint-rec-sys"><b>The Coffee Recommender System</b></a></td>
       <td><img alt="Computer Vision" src="https://img.shields.io/badge/AI-Computer%20Vision-blue"/>
       <img alt="Natural Language Processing" src="https://img.shields.io/badge/AI-Natural%20Language%20Processing-blue"/>
       <img alt="Recommender Systems" src="https://img.shields.io/badge/AI-Recommender%20Systems-blue"/></td>
+      <td><img alt="Tensorflow" src="[https://img.shields.io/badge/AI-Recommender%20Systems-blue](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/spencerkmarley/cs612-ai-sys-eval-project"><b>AI Backdoor Catcher</b></a></td>
       <td><img alt="Computer Vision" src="https://img.shields.io/badge/AI-Computer%20Vision-blue"/>
       <img alt="AI Systems Security" src="https://img.shields.io/badge/AI-AI%20Systems%20Security-blue"/></td>
+      <td><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/tituslhy/Face-mask-classification"><b>Face Mask Classification</b></a></td>
-      <td><img alt="Computer Vision" src="https://img.shields.io/badge/AI-Computer%20Vision-blue"/>
-      <img alt="Google Cloud Platform" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/></td>
+      <td><img alt="Computer Vision" src="https://img.shields.io/badge/AI-Computer%20Vision-blue"/></td>
+      <td><img alt="Google Cloud Platform" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/></td>
     </tr>
     
 [linkedin]: https://www.linkedin.com/in/titus-lim-hsien-yong/
