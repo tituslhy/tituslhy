@@ -64,7 +64,7 @@
       <td><img alt="Computer Vision" src="https://img.shields.io/badge/AI-Computer%20Vision-blue"/>
       <img alt="Natural Language Processing" src="https://img.shields.io/badge/AI-Natural%20Language%20Processing-blue"/>
       <img alt="Recommender Systems" src="https://img.shields.io/badge/AI-Recommender%20Systems-blue"/></td>
-      <td><<img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/></td>
+      <td><img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/spencerkmarley/cs612-ai-sys-eval-project"><b>AI Backdoor Catcher</b></a></td>
@@ -76,6 +76,12 @@
       <td><a href="https://github.com/tituslhy/Face-mask-classification"><b>Face Mask Classification</b></a></td>
       <td><img alt="Computer Vision" src="https://img.shields.io/badge/AI-Computer%20Vision-blue"/></td>
       <td><img alt="Google Cloud Platform" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/vannarath-poeu/aml-project"><b>Improving NYC 311 Efficiency</b></a></td>
+      <td><img alt="Machine Learning" src="https://img.shields.io/badge/Data%20Science-Applied%20Machine%20Learning-green"/></td>
+      <td><img alt="SKLearn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+      </td>
     </tr>
     
 [linkedin]: https://www.linkedin.com/in/titus-lim-hsien-yong/
