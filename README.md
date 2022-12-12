@@ -49,7 +49,11 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/teyang-lau/you-only-edit-once"><b>You Only Edit Once</b></a></td>
-      <td><img alt="Computer Vision" src="https://img.shields.io/badge/AI-Computer%20Vision-Blue"/></td>
+      <td><img alt="Computer Vision" src="https://img.shields.io/badge/AI-Computer%20Vision-blue"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/quekhyg/NLP-Lyric-Generator"><b>A Song for Singapore</b></a></td>
+      <td><img alt="Natural Language Processing" src="https://img.shields.io/badge/AI-Natural%20Language%20Processing-blue"/></td>
     </tr>
     
 [linkedin]: https://www.linkedin.com/in/titus-lim-hsien-yong/
