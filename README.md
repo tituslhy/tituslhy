@@ -53,8 +53,5 @@
     </tr>
 
 <br><br><br><br><br><br>
-### Alma Mater:
-<img align="left" title="SMU" width="200px" src="./Pictures/smumitb.png" />
-<img align="left" title="NUS" width="150px" src="./Pictures/nuschbe.jpeg" />
-
+    
 [linkedin]: https://www.linkedin.com/in/titus-lim-hsien-yong/
