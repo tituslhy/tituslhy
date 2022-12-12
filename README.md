@@ -60,6 +60,7 @@
       <td><img alt="Computer Vision" src="https://img.shields.io/badge/AI-Computer%20Vision-blue"/></td>
       <td><img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
          <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+        <img align="left" title="Streamlit" width="100px" src="./Pictures/Streamlit.png" /></td>
       </td>
     </tr>
     <tr>
