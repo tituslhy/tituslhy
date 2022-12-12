@@ -47,6 +47,7 @@
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
+      <td><b>📝  Summary</b></td>
       <td><b>⭐ Domains</b></td>
       <td><b>🛠️ Tools</b></td>
     </tr>
@@ -54,6 +55,7 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/teyang-lau/you-only-edit-once"><b>You Only Edit Once</b></a></td>
+      <td>Using object detection models to trim and beautify diving videos - feel free to try it out here!<a href="https://you-only-edit-once.streamlit.app/"></td>
       <td><img alt="Computer Vision" src="https://img.shields.io/badge/AI-Computer%20Vision-blue"/></td>
       <td><img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
          <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/></td>
