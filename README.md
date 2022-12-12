@@ -38,6 +38,21 @@
 <img align="left" title="DataRobot" width="50px" src="./Pictures/datarobot.png" />
 <br><br><br>
 
+<h3>My projects</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Domains</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/teyang-lau/you-only-edit-once"><b>You Only Edit Once component</b></a></td>
+      <td><img alt="Computer Vision" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+
+
 ### Alma Mater:
 <img align="left" title="SMU" width="200px" src="./Pictures/smumitb.png" />
 <img align="left" title="NUS" width="150px" src="./Pictures/nuschbe.jpeg" />
