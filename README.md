@@ -38,7 +38,7 @@
 <img align="left" title="DataRobot" width="50px" src="./Pictures/datarobot.png" />
 <br>
 
-### My projects
+### <h3>My projects</h3>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -51,7 +51,5 @@
       <td><a href="https://github.com/teyang-lau/you-only-edit-once"><b>You Only Edit Once</b></a></td>
       <td><img alt="Computer Vision" src="https://img.shields.io/badge/AI-Computer%20Vision-Blue"/></td>
     </tr>
-
-<br><br><br><br><br><br>
     
 [linkedin]: https://www.linkedin.com/in/titus-lim-hsien-yong/
