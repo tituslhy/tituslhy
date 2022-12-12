@@ -7,7 +7,7 @@
 🌱 I’m currently learning more about Mathematical Programming (optimization) and Machine Learning Engineering techniques (cloud computing, model deployment techniques, etc.) 👨‍💻! <br><br>
 🥅 Other goals outside of data science: 
 1. Train to be a web developer - I've been wanting do this for awhile! <br>
-2. Learn a new programming language - just for fun 🤣 Let me know if you have any recommendations, I'm currently thinking about learning 'Go'. <br>
+2. Learn a new programming language - just for fun 🤣 Let me know if you have any recommendations, I'm currently thinking about learning 'Go' - I hear it's 1000 times faster than Python! <br>
 
 ### Let's connect!:
 [<img align="left" alt="Titus | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
