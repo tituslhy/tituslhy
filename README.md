@@ -88,11 +88,12 @@
       <td><img alt="SKLearn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
       <img align="left" title="XGBoost" width="100px" src="./Pictures/xgboost.png" /></td>
     </tr>
-<br>
-
-### <h3>Articles written</h3>
-    <ul>
-       <li><a href="https://medium.com/@yenjoon.tan.2020/the-iot-liquid-pipeline-monitoring-system-2c6e66d75b9d"><b> The IoT Liquid Pipeline Monitoring System</b></a><br/></li>
-    </ul>
+    <tr>
+      <td><a href="https://medium.com/@yenjoon.tan.2020/the-iot-liquid-pipeline-monitoring-system-2c6e66d75b9d"><b>The IoT Liquid Pipeline Monitoring System</b></a></td>
+      <td><img alt="IoT" src="https://img.shields.io/badge/IoT-Sensors-yellowgreen"/></td>
+      <td><img alt="MQTT" src="https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white"/>
+      <img align="left" title="Tableau" width="100px" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" /></td>
+    </tr>
+    
     
 [linkedin]: https://www.linkedin.com/in/titus-lim-hsien-yong/
