@@ -56,6 +56,7 @@
     <tr>
       <td><a href="https://github.com/teyang-lau/you-only-edit-once"><b>You Only Edit Once</b></a></td>
       <td>Using object detection models to trim and beautify diving videos - feel free to try it out!
+        <br>
       [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://you-only-edit-once.streamlitapp.com/)
       </td>
       <td><img alt="Computer Vision" src="https://img.shields.io/badge/AI-Computer%20Vision-blue"/></td>
