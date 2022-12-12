@@ -84,6 +84,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/tituslhy/Face-mask-classification"><b>Face Mask Classification</b></a></td>
+      <td>This was an attempt at developing and quantizing image classification models for deployment to edge device through GCP to support the government's COVID-19 face mask detection enforcement measures. </td>
       <td><img alt="Computer Vision" src="https://img.shields.io/badge/AI-Computer%20Vision-blue"/></td>
       <td><img alt="Google Cloud Platform" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/></td>
     </tr>
