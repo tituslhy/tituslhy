@@ -92,7 +92,7 @@
 
 ### <h3>Articles written</h3>
     <ul>
-       <li><a href="https://medium.com/@yenjoon.tan.2020/the-iot-liquid-pipeline-monitoring-system-2c6e66d75b9d"><b> The IoT Liquid Pipeline Monitoring System</b></a><br/><i>Developed POC IoT pipeline monitoring ecosystem using AWS, SQL, Python, MQTT and Arduino</i></li>
+       <li><a href="https://medium.com/@yenjoon.tan.2020/the-iot-liquid-pipeline-monitoring-system-2c6e66d75b9d"><b> The IoT Liquid Pipeline Monitoring System</b></a><br/></li>
     </ul>
     
 [linkedin]: https://www.linkedin.com/in/titus-lim-hsien-yong/
