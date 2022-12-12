@@ -36,7 +36,7 @@
 <img align="left" title="Networkx" width="150px" src="./Pictures/networkx.svg" />
 <img align="left" title="SAS" width="80x" src="./Pictures/sas.svg" />
 <img align="left" title="DataRobot" width="50px" src="./Pictures/datarobot.png" />
-<br><br><br>
+<br>
 
 <h3>My projects</h3>
 <table>
