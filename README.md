@@ -68,8 +68,8 @@
       <td>Using LSTM, GRU, Seq2Seq models and GPT-2 to write lyrics, melody, harmony and sing out Singapore's next national day song!</td>
       <td><img alt="Natural Language Processing" src="https://img.shields.io/badge/AI-Natural%20Language%20Processing-blue"/></td>
       <td><img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
-      <img align="left" title="AITextGen" width="100px" src="./Pictures/aitextgen.png" />
-      <img align="left" title="JukeBox" width="100px" src="./Pictures/jukebox.png" />
+      <img alt="AITextGen" width="200px" src="./Pictures/aitextgen.png" />
+      <img alt="JukeBox" width="200px" src="./Pictures/jukebox.png" />
       </td>
     </tr>
     <tr>
