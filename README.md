@@ -67,7 +67,10 @@
       <td><a href="https://github.com/quekhyg/NLP-Lyric-Generator"><b>A Song for Singapore</b></a></td>
       <td>Using LSTM, GRU, Seq2Seq models and GPT-2 to write lyrics, melody, harmony and sing out Singapore's next national day song!</td>
       <td><img alt="Natural Language Processing" src="https://img.shields.io/badge/AI-Natural%20Language%20Processing-blue"/></td>
-      <td><img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/></td>
+      <td><img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+      <img align="left" title="AITextGen" width="100px" src="./Pictures/aitextgen.png" />
+      <img align="left" title="JukeBox" width="100px" src="./Pictures/jukebox.png" />
+      </td>
     </tr>
     <tr>
       <td><a href="https://github.com/teyang-lau/coffee-joint-rec-sys"><b>The Coffee Recommender System</b></a></td>
