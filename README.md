@@ -4,7 +4,7 @@
 <p><b> Welcome to my GitHub page! </br> My name is Titus and I'm a data scientist from  Singapore<img src="./Pictures/singapore.png" width="50"/></b>
 
 🏫 I’ve graduated with my Masters degree in Artificial Intelligence 👨‍🎓 - those nights spent learning the fundamentals of AI (computer vision, natural language processing, recommender systems, machine learning, machine learning engineering, etc) were very memorable!<br><br>
-🌱 I’m currently learning more about Mathematical Programming (optimization) and Machine Learning Engineering techniques (cloud computing, model deployment techniques, etc.) 👨‍💻! <br><br>
+🌱 I’m currently learning more about Mathematical Programming (optimization) and Machine Learning Engineering 👨‍💻! <br><br>
 🥅 Other goals outside of data science: 
 1. Train to be a web developer - I've been wanting do this for awhile! <br>
 2. Learn a new programming language - just for fun 🤣 Let me know if you have any recommendations, I'm currently thinking about learning 'Go' - I hear it's 1000 times faster than Python! <br>
