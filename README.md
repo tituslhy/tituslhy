@@ -31,6 +31,7 @@
 <br>
 <img align="left" title="SAS" width="80x" src="./Pictures/sas.svg" />
 <img align="left" title="DataRobot" width="50px" src="./Pictures/datarobot.png" />
+<br><br>
 
 ### Frameworks I use:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
