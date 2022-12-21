@@ -28,6 +28,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+<br>
 <img align="left" title="SAS" width="80x" src="./Pictures/sas.svg" />
 <img align="left" title="DataRobot" width="50px" src="./Pictures/datarobot.png" />
 
