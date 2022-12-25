@@ -5,9 +5,9 @@
 
 🏫 I’ve graduated with my Masters degree in Artificial Intelligence 👨‍🎓 - those nights spent learning the fundamentals of AI (computer vision, natural language processing, recommender systems, machine learning, machine learning engineering, etc) were very memorable!<br><br>
 🌱 I’m currently learning more about Mathematical Programming (optimization) and Machine Learning Engineering 👨‍💻! <br><br>
-🥅 Other goals outside of data science: 
-1. Train to be a web developer - I've been wanting do this for awhile! <br>
-2. Learn a new programming language - just for fun 🤣 Let me know if you have any recommendations, I'm currently thinking about learning 'Go' - I hear it's 1000 times faster than Python! <br>
+🥅 Goals for 2023: 
+1. Learn some quantum programming - just for fun 🤣  I've been wanting do this for awhile! <br>
+2. Take the huggingface course 🤗 - The library continues to grow with more state-of-the-art models, and I had so much fun with the huggingface models I used for natural language processing. Long live huggingface! 🤗 <br>
 
 ### Let's connect!:
 [<img align="left" alt="Titus | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
