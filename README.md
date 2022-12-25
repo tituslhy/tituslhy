@@ -6,7 +6,7 @@
 🏫 I’ve graduated with my Masters degree in Artificial Intelligence 👨‍🎓 - those nights spent learning the fundamentals of AI (computer vision, natural language processing, recommender systems, machine learning, machine learning engineering, etc) were very memorable!<br><br>
 🌱 I’m currently learning more about Mathematical Programming (optimization) and Machine Learning Engineering 👨‍💻! <br><br>
 🥅 Goals for 2023: 
-1. Learn some quantum programming - just for fun 🤣  I've been wanting do this for awhile! <br>
+1. Learn some quantum programming ![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white) - just for fun 🤣  I've been wanting do this for awhile! <br>
 2. Take the huggingface course 🤗 - The library continues to grow with more state-of-the-art models, and I had so much fun with the huggingface models I used for natural language processing. Long live huggingface! 🤗 <br>
 
 ### Let's connect!:
