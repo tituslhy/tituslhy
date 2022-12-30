@@ -51,6 +51,7 @@
 <img align="left" title="XGBoost" width="100px" src="./Pictures/xgboost.png" />
 <img align="left" title="Pyomo" width="120px" src="./Pictures/pyomo.png" />
 <img align="left" title="Networkx" width="150px" src="./Pictures/networkx.svg" />
+<img align="left" title="PySpark" width="150px" src="./Pictures/pyspark.png" />
 <br><br>
 
 ### <h3>Featured projects</h3>
