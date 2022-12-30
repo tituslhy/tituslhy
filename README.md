@@ -48,7 +48,7 @@
 ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
 <br>
 <img align="left" title="Huggingface" width="130px" src="./Pictures/huggingface.png" />
-<img align ="left" title="NLTK" width="100px" src="./Pictures/nltk.png" />
+<img align ="left" title="NLTK" width="50px" src="./Pictures/nltk.png" />
 <img align ="left" title="Gensim" width="100px" src="./Pictures/gensim.png" />
 <img align="left" title="XGBoost" width="100px" src="./Pictures/xgboost.png" />
 <img align="left" title="Pyomo" width="120px" src="./Pictures/pyomo.png" />
