@@ -41,7 +41,7 @@
 #### d. Analytics
 <img align="left" title="SAS" width="80x" src="./Pictures/sas.svg" />
 <img align="left" title="DataRobot" width="50px" src="./Pictures/datarobot.png" />
-<br><br>
+<br>
 
 #### e. Others
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
