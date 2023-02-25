@@ -6,8 +6,9 @@
 🏫 I’ve graduated with my Masters degree in Artificial Intelligence 👨‍🎓 - those nights spent learning the fundamentals of AI (computer vision, natural language processing, recommender systems, machine learning, machine learning engineering, etc) were very memorable!<br><br>
 🌱 I’m currently learning more about Mathematical Programming (optimization) and Machine Learning Engineering 👨‍💻! <br><br>
 🥅 Goals for 2023: 
-1. Learn how to develop my own APIs - just for fun 🤣 APIs are a great way to deploy data science solutions <br><br> <img align="left" title="FastAPI" width="120px" src="./Pictures/fastapi.png" /> <br><br>
-2. Take the huggingface course 🤗 - The library continues to grow with more state-of-the-art models, and I had so much fun with the huggingface models I used for natural language processing. Long live huggingface! 🤗 <br>
+1. Learn how to develop my own APIs - just for fun 🤣 APIs are a great way to deploy data science solutions <br> <img align="left" title="FastAPI" width="120px" src="./Pictures/fastapi.png" /> <br><br>
+2. Learn how to use Streamlit - I've always wanted to quickly prototype my own data science applications. I've developed my first proof-of-concept application for fun, but there's so much more ground that I can cover! <br><img align="left" title="Streamlit" width="120px" src="./Pictures/Streamlit.png" /><br><br>
+3. Take the huggingface course 🤗 - The library continues to grow with more state-of-the-art models, and I had so much fun with the huggingface models I used for natural language processing. Long live huggingface! 🤗 <br>
 
 ### Let's connect!:
 [<img align="left" alt="Titus | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
