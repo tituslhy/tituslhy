@@ -7,7 +7,7 @@
 🌱 I’m currently learning more about Mathematical Programming (optimization) and Machine Learning Engineering 👨‍💻! <br><br>
 🥅 Goals for 2023: 
 1. Learn how to develop my own APIs - just for fun 🤣 APIs are a great way to deploy data science solutions <br> <img align="left" title="FastAPI" width="120px" src="./Pictures/fastapi.png" /> <br><br>
-2. Learn how to use Streamlit - I've always wanted to quickly prototype my own data science applications. I've developed my first proof-of-concept application for fun, but there's so much more ground that I can cover! <br><img align="left" title="Streamlit" width="120px" src="./Pictures/Streamlit.png" /><br><br>
+2. Learn how to use Streamlit - I've always wanted to quickly prototype my own data science applications. I've developed my first proof-of-concept application for fun, but there's so much more ground that I can cover! <br><img align="left" title="Streamlit" width="120px" src="./Pictures/Streamlit.png" /><br><br><br>
 3. Take the huggingface course 🤗 - The library continues to grow with more state-of-the-art models, and I had so much fun with the huggingface models I used for natural language processing. Long live huggingface! 🤗 <br>
 
 ### Let's connect!:
