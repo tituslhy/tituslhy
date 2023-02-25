@@ -55,7 +55,6 @@
 <img align="left" title="Networkx" width="150px" src="./Pictures/networkx.svg" />
 <br><br><br>
 <img align="left" title="PySpark" width="120px" src="./Pictures/pyspark.png" />
-<br><br><br>
 <img align="left" title="Streamlit" width="120px" src="./Pictures/Streamlit.png" />
 
 ### <h3>Featured projects</h3>
