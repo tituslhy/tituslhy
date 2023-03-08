@@ -6,7 +6,7 @@
 🏫 I’ve graduated with my Masters degree in Artificial Intelligence 👨‍🎓 - those nights spent learning the fundamentals of AI (computer vision, natural language processing, recommender systems, machine learning, machine learning engineering, etc) were very memorable!<br><br>
 🌱 I’m currently learning more about Mathematical Programming (optimization) and Machine Learning Engineering 👨‍💻! <br><br>
 🥅 Goals for 2023: 
-- [x] 1. Learn how to develop my own APIs - just for fun 🤣 APIs are a great way to deploy data science solutions <br> <img align="left" title="FastAPI" width="120px" src="./Pictures/fastapi.png" /> <br><br>
+- [x] 1. Learn how to develop my own APIs - just for fun 🤣 APIs are a great way to deploy data science solutions <br> <img align="left" title="FastAPI" width="120px" src="./Pictures/fastapi.png"/> <br><br>
 - [x] 2. Learn how to use Streamlit - I've always wanted to quickly prototype my own data science applications. I've developed my first proof-of-concept application for fun, but there's so much more ground that I can cover! <br><img align="left" title="Streamlit" width="120px" src="./Pictures/Streamlit.png" /><br><br><br><br>
 - [ ] 3. Use Tensorflow for time series analysis. Tensorflow is one of my favorite libraries of all time (along with PyTorch of course). Long live Tensorflow! ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)<br>
 
@@ -57,6 +57,7 @@
 <br><br><br>
 <img align="left" title="PySpark" width="120px" src="./Pictures/pyspark.png" />
 <img align="left" title="Streamlit" width="120px" src="./Pictures/Streamlit.png" />
+<img align="left" title="FastAPI" width="120px" src="./Pictures/fastapi.png"/>
 <br><br><br>
 
 ### <h3>Featured projects</h3>
