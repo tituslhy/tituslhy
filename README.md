@@ -57,8 +57,8 @@
 <img align="left" title="Networkx" width="150px" src="./Pictures/networkx.svg" />
 <br><br><br>
 <img align="left" title="PySpark" width="120px" src="./Pictures/pyspark.png" />
-<img align="left" title="Streamlit" width="120px" src="./Pictures/Streamlit.png" />
-<img align="left" title="FastAPI" width="150px" src="./Pictures/fastapi.png"/>
+<img align="left" title="Streamlit" width="110px" src="./Pictures/Streamlit.png" />
+<img align="left" title="FastAPI" width="140px" src="./Pictures/fastapi.png"/>
 <br><br><br>
 
 ### <h3>Featured projects</h3>
