@@ -4,11 +4,14 @@
 <p><b> Welcome to my GitHub page! </br> My name is Titus and I'm a data scientist from  Singapore<img src="./Pictures/singapore.png" width="50"/></b>
 
 🏫 I’ve graduated with my Masters degree in Artificial Intelligence 👨‍🎓 - those nights spent learning the fundamentals of AI (computer vision, natural language processing, recommender systems, machine learning, machine learning engineering, etc) were very memorable!<br><br>
-🌱 I’m currently learning more about Mathematical Programming (optimization) and Machine Learning Engineering 👨‍💻! <br><br>
+🌱 I’m currently learning more about using alternative database technologies (MongoDB and Neo4j) and learning how to use Tensorflow for time series analysis 👨‍💻! <br><br>
 🥅 Goals for 2023: 
 - [x] 1. Learn how to develop my own APIs - just for fun 🤣 APIs are a great way to deploy data science solutions <br> <img align="left" title="FastAPI" width="120px" src="./Pictures/fastapi.png"/> <br><br>
 - [x] 2. Learn how to use Streamlit - I've always wanted to quickly prototype my own data science applications. I've developed my first proof-of-concept application for fun, but there's so much more ground that I can cover! <br><img align="left" title="Streamlit" width="120px" src="./Pictures/Streamlit.png" /><br><br><br><br>
-- [ ] 3. Use Tensorflow for time series analysis. Tensorflow is one of my favorite libraries of all time (along with PyTorch of course). Long live Tensorflow! ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)<br>
+- [x] 3. Learn mathematical programming - thank you for existing Pyomo! <br>
+- [ ] 4. Use Tensorflow for time series analysis. Tensorflow is one of my favorite libraries of all time (along with PyTorch of course). Long live Tensorflow! ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) <br>
+- [ ] 5. Learn and use MongoDB - noSQL is an amazing database paradigm! ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)<br>
+- [ ] 6. Learn and use Neo4j - Graph databases are yet another amazing database paradigm! ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)<br>
 
 ### Let's connect!:
 [<img align="left" alt="Titus | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
