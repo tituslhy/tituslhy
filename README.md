@@ -9,8 +9,8 @@
 - [x] 1. Learn how to develop my own APIs - just for fun 🤣 APIs are a great way to deploy data science solutions <br> <img align="left" title="FastAPI" width="120px" src="./Pictures/fastapi.png"/> <br><br>
 - [x] 2. Learn how to use Streamlit - I've always wanted to quickly prototype my own data science applications. I've developed my first proof-of-concept application for fun, but there's so much more ground that I can cover! <br><img align="left" title="Streamlit" width="120px" src="./Pictures/Streamlit.png" /><br><br><br><br>
 - [x] 3. Learn mathematical programming - thank you for existing Pyomo! <br><img align="left" title="Pyomo" width="120px" src="./Pictures/pyomo.png" /><br><br><br><br>
-- [ ] 4. Use Tensorflow for time series analysis. Tensorflow is one of my favorite libraries of all time (along with PyTorch of course). Long live Tensorflow! <br><img align="left" title="Tensorflow" width="120px" src="./Pictures/tf.png" /><br><br><br><br>
-- [ ] 5. Learn and use MongoDB - noSQL is an amazing database paradigm! <br><img align="left" title="MongoDB" width="120px" src="./Pictures/MongoDB.png" /><br><br><br><br>
+- [ ] 4. Use Tensorflow for time series analysis. Tensorflow is one of my favorite libraries of all time (along with PyTorch of course). Long live Tensorflow! <br><img align="left" title="Tensorflow" width="120px" src="./Pictures/tf.png" /><br><br>
+- [ ] 5. Learn and use MongoDB - noSQL is an amazing database paradigm! <br><img align="left" title="MongoDB" width="120px" src="./Pictures/MongoDB.png" /><br><br>
 - [ ] 6. Learn and use Neo4j - Graph databases are yet another amazing database paradigm! ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)<br>
 
 ### Let's connect!:
