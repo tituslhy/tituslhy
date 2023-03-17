@@ -125,8 +125,8 @@
       <img alt="Machine Learning Engineering" src="https://img.shields.io/badge/ML-ML%20Engineering-green"/></td>
       <td>
       <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+      <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
       <img align="left" title="Streamlit" width="100px" src="./Pictures/Streamlit.png" />
-      <img align="left" title="FastAPI" width="120px" src="./Pictures/fastapi.png" /> 
       </td>
     </tr>
     <tr>
