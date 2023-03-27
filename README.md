@@ -5,13 +5,15 @@
 
 🏫 I’ve graduated with my Masters degree in Artificial Intelligence 👨‍🎓 - those nights spent learning the fundamentals of AI (computer vision, natural language processing, recommender systems, machine learning, machine learning engineering, etc) were very memorable!<br><br>
 🌱 I’m currently learning more about using alternative database technologies (MongoDB and Neo4j) and learning how to use Tensorflow for time series analysis 👨‍💻! <br><br>
-🥅 Goals for 2023: 
+### 🥅 Goals for 2023: 
 - [x] 1. Learn how to develop my own APIs - just for fun 🤣 APIs are a great way to deploy data science solutions <br> <img align="left" title="FastAPI" width="120px" src="./Pictures/fastapi.png"/> <br><br>
-- [x] 2. Learn how to use Streamlit - I've always wanted to quickly prototype my own data science applications. I've developed my first proof-of-concept application for fun, but there's so much more ground that I can cover! <br><img align="left" title="Streamlit" width="120px" src="./Pictures/Streamlit.png" /><br><br><br><br>
+- [x] 2. Learn how to use Streamlit - I've always wanted to quickly prototype my own data science applications.  <br><img align="left" title="Streamlit" width="120px" src="./Pictures/Streamlit.png" /><br><br><br><br>
 - [x] 3. Learn mathematical programming - thank you for existing Pyomo! <br><img align="left" title="Pyomo" width="120px" src="./Pictures/pyomo.png" /><br><br><br>
-- [ ] 4. Use Tensorflow for time series analysis. Tensorflow is one of my favorite libraries of all time (along with PyTorch of course). Long live Tensorflow! <br><img align="left" title="Tensorflow" width="120px" src="./Pictures/tf.png" /><br><br><br><br>
-- [x] 5. Learn and use MongoDB - noSQL is an amazing database paradigm! <br><br><img align="left" title="MongoDB" width="150px" src="./Pictures/MongoDB.png" /><br><br><br>
-- [ ] 6. Learn and use Neo4j - Graph databases are yet another amazing database paradigm! <br><br><img align="left" title="Neo4j" width="120px" src="./Pictures/neo4j.png" /><br><br>
+- [x] 4. Learn and use MongoDB - noSQL is an amazing database paradigm! <br><br><img align="left" title="MongoDB" width="150px" src="./Pictures/MongoDB.png" /><br><br><br>
+- [x] 5. Learn how to code in a different general purpose programming language (just to see what else is out there 🤣) <br><br><img align="left" title="C#" width="150px" src="./Pictures/C-Sharp.png" /><br><br><br>
+- [ ] 6. Learn and use Flask to develop real frontend tools - I've also always wanted to use Flask to develop my own frontend for deployed machine learning solutions. [![Generic badge](https://img.shields.io/badge/STATUS-INPROGRESS-<COLOR>.svg)](https://shields.io/) <br><br><img align="left" title="Flask" width="120px" src="./Pictures/flask.png" /><br><br>
+- [ ] 7. Use Tensorflow for time series analysis. Tensorflow is one of my favorite libraries of all time (along with PyTorch of course). Long live Tensorflow! [![Generic badge](https://img.shields.io/badge/STATUS-INPROGRESS-<COLOR>.svg)](https://shields.io/) <br><img align="left" title="Tensorflow" width="120px" src="./Pictures/tf.png" /><br><br><br><br>
+- [ ] 8. Learn and use Neo4j - Graph databases are yet another gamechanging database paradigm! <br><br><img align="left" title="Neo4j" width="120px" src="./Pictures/neo4j.png" /><br><br>
 
 ### Let's connect!:
 [<img align="left" alt="Titus | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -20,6 +22,7 @@
 ### I code in:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 <br>
 
 ### I use these database tools:
