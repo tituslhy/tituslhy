@@ -11,9 +11,9 @@
 - [x] 3. Learn mathematical programming - thank you for existing Pyomo! <br><img align="left" title="Pyomo" width="120px" src="./Pictures/pyomo.png" /><br><br><br>
 - [x] 4. Learn and use MongoDB - noSQL is an amazing database paradigm! <br><br><img align="left" title="MongoDB" width="150px" src="./Pictures/MongoDB.png" /><br><br><br>
 - [x] 5. Code in a different general purpose programming language (just to see what else is out there 🤣) <br><br><img align="left" title="C#" width="150px" src="./Pictures/C-Sharp.png" /><br><br><br><br>
-- [ ] 6. Learn and use Flask to develop real frontend tools - I've also always wanted to use Flask to develop my own frontend for deployed machine learning solutions. [![Generic badge](https://img.shields.io/badge/STATUS-INPROGRESS-<COLOR>.svg)](https://shields.io/) <br><br><img align="left" title="Flask" width="120px" src="./Pictures/flask.png" /><br><br><br><br>
-- [ ] 7. Use Tensorflow for time series analysis. Tensorflow is one of my favorite libraries of all time (along with PyTorch of course). Long live Tensorflow! [![Generic badge](https://img.shields.io/badge/STATUS-INPROGRESS-<COLOR>.svg)](https://shields.io/) <br><img align="left" title="Tensorflow" width="120px" src="./Pictures/tf.png" /><br><br><br><br>
-- [ ] 8. Learn and use Neo4j - Graph databases are yet another gamechanging database paradigm! <br><br><img align="left" title="Neo4j" width="120px" src="./Pictures/neo4j.png" /><br><br><br>
+- [ ] 6. Use Tensorflow for time series analysis. Tensorflow is one of my favorite libraries of all time (along with PyTorch of course). Long live Tensorflow! [![Generic badge](https://img.shields.io/badge/STATUS-INPROGRESS-<COLOR>.svg)](https://shields.io/) <br><img align="left" title="Tensorflow" width="120px" src="./Pictures/tf.png" /><br><br><br><br>
+- [ ] 7. Learn and use Flask to develop real frontend tools - I've also always wanted to use Flask to develop my own frontend for deployed machine learning solutions. [![Generic badge](https://img.shields.io/badge/STATUS-INPROGRESS-<COLOR>.svg)](https://shields.io/) <br><br><img align="left" title="Flask" width="120px" src="./Pictures/flask.png" /><br><br><br><br>
+- [ ] 8. Learn and use Neo4j - Graph databases are yet another gamechanging database paradigm! [![Generic badge](https://img.shields.io/badge/STATUS-INPROGRESS-<COLOR>.svg)](https://shields.io/)<br><br><img align="left" title="Neo4j" width="120px" src="./Pictures/neo4j.png" /><br><br><br>
 
 ### Let's connect!:
 [<img align="left" alt="Titus | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -33,7 +33,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 <br>
 
-### I use these tools for ML engineering and AI programming:
+### I use these tools for Data Science:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
