@@ -79,7 +79,7 @@
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
-      <td><b>📝  Summary</b></td>
+      <td><b>📝 Summary</b></td>
       <td><b>⭐ Domains</b></td>
       <td><b>🛠️ Tools</b></td>
     </tr>
