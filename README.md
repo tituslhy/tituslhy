@@ -142,7 +142,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/tituslhy/FoodVision-Tensorflow"><b>FoodVision-Tensorflow</b></a></td>
-      <td>TThis project is a personal project to develop a computer vision classification model for food images. </td>
+      <td>This project is a personal project to develop a computer vision classification model for food images. </td>
       <td><img alt="Computer Vision" src="https://img.shields.io/badge/AI-Computer%20Vision-blue"/>
       <img alt="Machine Learning Engineering" src="https://img.shields.io/badge/ML-ML%20Engineering-green"/></td>
       <td>
