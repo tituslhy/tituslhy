@@ -72,7 +72,6 @@
 <img align="left" title="XGBoost" width="100px" src="./Pictures/xgboost.png" />
 <img align="left" title="Pyomo" width="120px" src="./Pictures/pyomo.png" /><br><br><br>
 <img align="left" title="Networkx" width="150px" src="./Pictures/networkx.svg" />
-<br><br><br>
 <img align="left" title="PySpark" width="120px" src="./Pictures/pyspark.png" />
 <img align="left" title="Streamlit" width="110px" src="./Pictures/Streamlit.png" />
 <br><br><br>
