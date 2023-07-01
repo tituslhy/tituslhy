@@ -79,7 +79,7 @@
 <img align="left" title="Networkx" width="150px" src="./Pictures/networkx.svg" />
 <img align="left" title="PySpark" width="120px" src="./Pictures/pyspark.png" />
 <img align="left" title="Streamlit" width="110px" src="./Pictures/Streamlit.png" />
-<br><br>
+<br><br><br>
 
 ### <h3>Featured projects</h3>
 <table>
