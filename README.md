@@ -13,7 +13,7 @@
 - [x] 5. Code in a different general purpose programming language and develop an API in it(just to see what else is out there 🤣) <br><br><img align="left" title="C#" width="150px" src="./Pictures/C-Sharp.png" /><br><br><br><br>
 - [x] 6. Use Tensorflow for time series analysis. Tensorflow is one of my favorite libraries of all time (along with PyTorch of course). Long live Tensorflow! <br><img align="left" title="Tensorflow" width="120px" src="./Pictures/tf.png" /><br><br><br><br>
 - [x] 7. Learn (yet another) state-of-the-art deep learning library - PaddlePaddle has amazing solutions for object detection and OCR (and in my opinion is unrivalled in the OCR space) <br><br><img align="left" title="PaddlePaddle" width="120px" src="./Pictures/PaddlePaddle.jpeg" /><br><br>
-- [x] 8. Harness the power of LLMs using LangChain - Project to be published soon <br><br><img align="left" title="LangChain" width="150px" src="./Pictures/langchain.png" /><br><br>
+- [x] 8. Harness the power of LLMs using LangChain - Project to be published soon <br><br><img align="left" title="LangChain" width="150px" src="./Pictures/langchain.png" /><br><br><br><br>
 - [ ] 9. Learn and use Flask to develop real frontend tools - I've also always wanted to use Flask to develop my own frontend for deployed machine learning solutions. [![Generic badge](https://img.shields.io/badge/STATUS-INPROGRESS-<COLOR>.svg)](https://shields.io/) <br><br><img align="left" title="Flask" width="120px" src="./Pictures/flask.png" /><br><br><br><br>
 - [ ] 10. Learn and use Neo4j - Graph databases are yet another gamechanging database paradigm! [![Generic badge](https://img.shields.io/badge/STATUS-INPROGRESS-<COLOR>.svg)](https://shields.io/)<br><br><img align="left" title="Neo4j" width="120px" src="./Pictures/neo4j.png" /><br><br><br>
 - [ ] 11. Use PyTorch's interesting features (jit, experiment tracking, deployment to HuggingFace spaces, etc.) in projects! [![Generic badge](https://img.shields.io/badge/STATUS-INPROGRESS-<COLOR>.svg)](https://shields.io/) <br><br><img align="left" title="PyTorch" width="120px" src="./Pictures/torch.png" /><br><br><br>
@@ -69,7 +69,7 @@
 ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
 <br>
 <img align="left" title="Huggingface" width="130px" src="./Pictures/huggingface.png" />
-<img align="left" title="LangChain" width="150px" src="./Pictures/langchain.png" />
+<img align="left" title="LangChain" width="200px" src="./Pictures/langchain.png" />
 <img align="left" title="PaddlePaddle" width="120px" src="./Pictures/PaddlePaddle.jpeg" />
 <img align="left" title="OpenCV" width="40px" src="./Pictures/OpenCV.png" />
 <img align ="left" title="NLTK" width="50px" src="./Pictures/nltk.png" />
