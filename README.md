@@ -69,16 +69,17 @@
 ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
 <br>
 <img align="left" title="Huggingface" width="130px" src="./Pictures/huggingface.png" />
-<img align="left" title="LangChain" width="150px" src="./Pictures/langchain.png" />
+<img align="left" title="LangChain" width="130px" src="./Pictures/langchain.png" />
 <img align="left" title="PaddlePaddle" width="120px" src="./Pictures/PaddlePaddle.jpeg" />
 <img align="left" title="OpenCV" width="40px" src="./Pictures/OpenCV.png" />
 <img align ="left" title="NLTK" width="50px" src="./Pictures/nltk.png" />
 <img align ="left" title="Gensim" width="100px" src="./Pictures/gensim.png" />
-<img align="left" title="XGBoost" width="100px" src="./Pictures/xgboost.png" />
+<img align="left" title="XGBoost" width="100px" src="./Pictures/xgboost.png" /><br>
+<img align="left" title="Pyomo" width="120px" src="./Pictures/pyomo.png" /><br><br><br>
 <img align="left" title="Networkx" width="150px" src="./Pictures/networkx.svg" />
 <img align="left" title="PySpark" width="120px" src="./Pictures/pyspark.png" />
 <img align="left" title="Streamlit" width="110px" src="./Pictures/Streamlit.png" />
-<img align="left" title="Pyomo" width="120px" src="./Pictures/pyomo.png" /><br><br><br><br><br>
+<br><br><br><br>
 
 ### <h3>Featured projects</h3>
 <table>
