@@ -16,7 +16,7 @@
 - [ ] 8. Learn and use Flask to develop real frontend tools - I've also always wanted to use Flask to develop my own frontend for deployed machine learning solutions. [![Generic badge](https://img.shields.io/badge/STATUS-INPROGRESS-<COLOR>.svg)](https://shields.io/) <br><br><img align="left" title="Flask" width="120px" src="./Pictures/flask.png" /><br><br><br><br>
 - [ ] 9. Learn and use Neo4j - Graph databases are yet another gamechanging database paradigm! [![Generic badge](https://img.shields.io/badge/STATUS-INPROGRESS-<COLOR>.svg)](https://shields.io/)<br><br><img align="left" title="Neo4j" width="120px" src="./Pictures/neo4j.png" /><br><br><br>
 - [ ] 10. Use PyTorch's interesting features (jit, experiment tracking, deployment to HuggingFace spaces, etc.) in projects! [![Generic badge](https://img.shields.io/badge/STATUS-INPROGRESS-<COLOR>.svg)](https://shields.io/) <br><br><img align="left" title="PyTorch" width="120px" src="./Pictures/torch.png" /><br><br><br>
-- [ ] 11. Learn full stack web development - learn JavaScript, HTML5 and CSS [![Generic badge](https://img.shields.io/badge/STATUS-INPROGRESS-<COLOR>.svg)](https://shields.io/) <br><br><br><br>
+- [ ] 11. Learn full stack web development - learn JavaScript, HTML5 and CSS [![Generic badge](https://img.shields.io/badge/STATUS-INPROGRESS-<COLOR>.svg)](https://shields.io/) <br>
 
 ### Let's connect!:
 [<img align="left" alt="Titus | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
