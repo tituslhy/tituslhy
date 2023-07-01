@@ -15,7 +15,8 @@
 - [x] 7. Learn (yet another) state-of-the-art deep learning library - PaddlePaddle has amazing solutions for object detection and OCR (and in my opinion is unrivalled in the OCR space) <br><br><img align="left" title="PaddlePaddle" width="120px" src="./Pictures/PaddlePaddle.jpeg" /><br><br>
 - [ ] 8. Learn and use Flask to develop real frontend tools - I've also always wanted to use Flask to develop my own frontend for deployed machine learning solutions. [![Generic badge](https://img.shields.io/badge/STATUS-INPROGRESS-<COLOR>.svg)](https://shields.io/) <br><br><img align="left" title="Flask" width="120px" src="./Pictures/flask.png" /><br><br><br><br>
 - [ ] 9. Learn and use Neo4j - Graph databases are yet another gamechanging database paradigm! [![Generic badge](https://img.shields.io/badge/STATUS-INPROGRESS-<COLOR>.svg)](https://shields.io/)<br><br><img align="left" title="Neo4j" width="120px" src="./Pictures/neo4j.png" /><br><br><br>
-- [ ] 10. Use PyTorch's interesting features (jit, experiment tracking, deployment to HuggingFace spaces, etc.) in projects! [![Generic badge](https://img.shields.io/badge/STATUS-INPROGRESS-<COLOR>.svg)](https://shields.io/) <br><br><img align="left" title="PyTorch" width="120px" src="./Pictures/torch.png" /><br><br><br><br>
+- [ ] 10. Use PyTorch's interesting features (jit, experiment tracking, deployment to HuggingFace spaces, etc.) in projects! [![Generic badge](https://img.shields.io/badge/STATUS-INPROGRESS-<COLOR>.svg)](https://shields.io/) <br><br><img align="left" title="PyTorch" width="120px" src="./Pictures/torch.png" /><br><br><br>
+- [ ] 11. Learn full stack web development - learn JavaScript, HTML5 and CSS [![Generic badge](https://img.shields.io/badge/STATUS-INPROGRESS-<COLOR>.svg)](https://shields.io/) <br><br><br><br>
 
 ### Let's connect!:
 [<img align="left" alt="Titus | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -25,6 +26,8 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 <br>
 
 ### I use these database tools:
