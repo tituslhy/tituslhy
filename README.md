@@ -69,7 +69,7 @@
 ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
 <br>
 <img align="left" title="Huggingface" width="130px" src="./Pictures/huggingface.png" />
-<img align="left" title="LangChain" width="300px" src="./Pictures/langchain.png" />
+<img align="left" title="LangChain" width="150px" src="./Pictures/langchain.png" />
 <img align="left" title="PaddlePaddle" width="120px" src="./Pictures/PaddlePaddle.jpeg" />
 <img align="left" title="OpenCV" width="40px" src="./Pictures/OpenCV.png" />
 <img align ="left" title="NLTK" width="50px" src="./Pictures/nltk.png" />
