@@ -17,8 +17,9 @@
 - [x] 8. Harness the power of LLMs using LangChain - Project to be published soon <br><br><img align="left" title="LangChain" width="150px" src="./Pictures/langchain.png" /><br><br><br><br>
 - [x] 9. Learn and use Flask to develop real frontend tools - I've also always wanted to use Flask to develop my own frontend for deployed machine learning solutions.<br><br><img align="left" title="Flask" width="120px" src="./Pictures/flask.png" /><br><br><br><br>
 - [x] 10. Learn and use Neo4j - Graph databases are yet another gamechanging database paradigm!<br><br><img align="left" title="Neo4j" width="120px" src="./Pictures/neo4j.png" /><br><br><br>
-- [ ] 11. Use PyTorch's interesting features (jit, experiment tracking, deployment to HuggingFace spaces, etc.) in projects! [![Generic badge](https://img.shields.io/badge/STATUS-INPROGRESS-<COLOR>.svg)](https://shields.io/) <br><br><img align="left" title="PyTorch" width="120px" src="./Pictures/torch.png" /><br><br><br>
-- [ ] 12. Learn full stack web development - learn JavaScript, HTML5 and CSS [![Generic badge](https://img.shields.io/badge/STATUS-INPROGRESS-<COLOR>.svg)](https://shields.io/) <br>
+- [x] 11. Learn Redis - In-memory NoSQL databases can help with latency problems in deployment!<br><br><img align="left" title="Redis" width="120px" src="./Pictures/redis.png" /><br><br><br>
+- [ ] 12. Use PyTorch's interesting features (jit, experiment tracking, deployment to HuggingFace spaces, etc.) in projects! [![Generic badge](https://img.shields.io/badge/STATUS-INPROGRESS-<COLOR>.svg)](https://shields.io/) <br><br><img align="left" title="PyTorch" width="120px" src="./Pictures/torch.png" /><br><br><br>
+- [ ] 13. Learn full stack web development - learn JavaScript, HTML5 and CSS [![Generic badge](https://img.shields.io/badge/STATUS-INPROGRESS-<COLOR>.svg)](https://shields.io/) <br>
 
 ### Let's connect!:
 [<img align="left" alt="Titus | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -39,6 +40,7 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 <br>
 
 ### I use these tools for Data Science:
