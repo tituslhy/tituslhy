@@ -18,7 +18,7 @@
 - [x] 9. Learn and use Flask to develop real frontend tools - I've also always wanted to use Flask to develop my own frontend for deployed machine learning solutions.<br><br><img align="left" title="Flask" width="120px" src="./Pictures/flask.png" /><br><br><br><br>
 - [x] 10. Learn and use Neo4j - Graph databases are yet another gamechanging database paradigm!<br><br><img align="left" title="Neo4j" width="120px" src="./Pictures/neo4j.png" /><br><br><br>
 - [x] 11. Learn Redis - In-memory NoSQL databases can help with latency problems in deployment!<br><br><img align="left" title="Redis" width="120px" src="./Pictures/redis.png" /><br><br><br>
-- [ ] 12. Use PyTorch's interesting features (jit, experiment tracking, deployment to HuggingFace spaces, etc.) in projects! [![Generic badge](https://img.shields.io/badge/STATUS-INPROGRESS-<COLOR>.svg)](https://shields.io/) <br><br><img align="left" title="PyTorch" width="120px" src="./Pictures/torch.png" /><br><br><br>
+- [x] 12. Use PyTorch's interesting features (jit, experiment tracking, deployment to HuggingFace spaces, etc.) in projects! <br><br><img align="left" title="PyTorch" width="120px" src="./Pictures/torch.png" /><br><br><br>
 - [ ] 13. Learn full stack web development - learn JavaScript, HTML5 and CSS [![Generic badge](https://img.shields.io/badge/STATUS-INPROGRESS-<COLOR>.svg)](https://shields.io/) <br>
 
 ### Let's connect!:
