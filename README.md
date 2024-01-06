@@ -4,22 +4,8 @@
 <p><b> Welcome to my GitHub page! </br> My name is Titus and I'm a data scientist from  Singapore<img src="./Pictures/singapore.png" width="50"/></b>
 
 🏫 I’ve graduated with my Masters degree in Artificial Intelligence 👨‍🎓 - those nights spent learning the fundamentals of AI (computer vision, natural language processing, recommender systems, machine learning, machine learning engineering, etc) were very memorable!<br><br>
-🌱 I’m currently learning more about web development - coding is so fun 👨‍💻! <br><br>
+🌱 I’m currently learning more about software engineering in JavaScript - coding is so fun 👨‍💻! <br><br>
 🚀 Check out my [personal webpage](https://tituslim.onrender.com/)! <br><br>
-### 🥅 Goals for 2023: 
-- [x] 1. Learn how to develop my own APIs in python - just for fun 🤣 APIs are a great way to deploy data science solutions <br> <img align="left" title="FastAPI" width="120px" src="./Pictures/fastapi.png"/> <br><br>
-- [x] 2. Learn how to use Streamlit - I've always wanted to quickly prototype my own data science applications.  <br><img align="left" title="Streamlit" width="120px" src="./Pictures/Streamlit.png" /><br><br><br><br>
-- [x] 3. Learn mathematical programming - thank you for existing Pyomo! <br><img align="left" title="Pyomo" width="120px" src="./Pictures/pyomo.png" /><br><br><br>
-- [x] 4. Learn and use MongoDB - noSQL is an amazing database paradigm! <br><br><img align="left" title="MongoDB" width="150px" src="./Pictures/MongoDB.png" /><br><br><br>
-- [x] 5. Code in a different general purpose programming language and develop an API in it(just to see what else is out there 🤣) <br><br><img align="left" title="C#" width="150px" src="./Pictures/C-Sharp.png" /><br><br><br><br>
-- [x] 6. Use Tensorflow for time series analysis. Tensorflow is one of my favorite libraries of all time (along with PyTorch of course). Long live Tensorflow! <br><img align="left" title="Tensorflow" width="120px" src="./Pictures/tf.png" /><br><br><br><br>
-- [x] 7. Learn (yet another) state-of-the-art deep learning library - PaddlePaddle has amazing solutions for object detection and OCR (and in my opinion is unrivalled in the OCR space) <br><br><img align="left" title="PaddlePaddle" width="120px" src="./Pictures/PaddlePaddle.jpeg" /><br><br>
-- [x] 8. Harness the power of LLMs using LangChain - Project to be published soon <br><br><img align="left" title="LangChain" width="150px" src="./Pictures/langchain.png" /><br><br><br><br>
-- [x] 9. Learn and use Flask to develop real frontend tools - I've also always wanted to use Flask to develop my own frontend for deployed machine learning solutions.<br><br><img align="left" title="Flask" width="120px" src="./Pictures/flask.png" /><br><br><br><br>
-- [x] 10. Learn and use Neo4j - Graph databases are yet another gamechanging database paradigm!<br><br><img align="left" title="Neo4j" width="120px" src="./Pictures/neo4j.png" /><br><br><br>
-- [x] 11. Learn Redis - In-memory NoSQL databases can help with latency problems in deployment!<br><br><img align="left" title="Redis" width="120px" src="./Pictures/redis.png" /><br><br><br>
-- [x] 12. Use PyTorch's interesting features (jit, experiment tracking, deployment to HuggingFace spaces, etc.) in projects! <br><br><img align="left" title="PyTorch" width="120px" src="./Pictures/torch.png" /><br><br><br>
-- [ ] 13. Learn full stack web development - learn JavaScript, HTML5 and CSS [![Generic badge](https://img.shields.io/badge/STATUS-INPROGRESS-<COLOR>.svg)](https://shields.io/) <br>
 
 ### Let's connect!:
 [<img align="left" alt="Titus | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
