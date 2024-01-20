@@ -72,9 +72,9 @@
 <img align="left" title="Networkx" width="150px" src="./Pictures/networkx.svg" />
 <img align="left" title="PySpark" width="120px" src="./Pictures/pyspark.png" />
 <img align="left" title="Streamlit" width="110px" src="./Pictures/Streamlit.png" />
-<img align="left" title="Chainlit" width="110px" src="./Pictures/chainlit.png" />
-<img align="left" title="Gradio" width="110px" src="./Pictures/Gradio.png" />
-<br><br><br>
+<img align="left" title="Chainlit" width="110px" src="./Pictures/chainlit.svg" />
+<img align="left" title="Gradio" width="110px" src="./Pictures/gradio.png" />
+<br><br><br><br>
 
 ### <h3>Featured projects</h3>
 <table>
