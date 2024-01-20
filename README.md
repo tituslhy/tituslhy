@@ -74,7 +74,7 @@
 <img align="left" title="Streamlit" width="110px" src="./Pictures/Streamlit.png" />
 <img align="left" title="Chainlit" width="110px" src="./Pictures/chainlit.svg" />
 <img align="left" title="Gradio" width="110px" src="./Pictures/gradio.png" />
-<br><br><br><br>
+<br><br><br><br><br><br>
 
 ### <h3>Featured projects</h3>
 <table>
