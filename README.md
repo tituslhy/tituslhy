@@ -67,7 +67,7 @@
 <img align="left" title="OpenCV" width="40px" src="./Pictures/OpenCV.png" />
 <img align ="left" title="NLTK" width="50px" src="./Pictures/nltk.png" />
 <img align ="left" title="Gensim" width="100px" src="./Pictures/gensim.png" />
-<img align="left" title="XGBoost" width="100px" src="./Pictures/xgboost.png" /><br><br><br>
+<img align="left" title="XGBoost" width="100px" src="./Pictures/xgboost.png" />
 <img align="left" title="PySpark" width="120px" src="./Pictures/pyspark.png" />
 <img align="left" title="Streamlit" width="110px" src="./Pictures/Streamlit.png" />
 <img align="left" title="Chainlit" width="110px" src="./Pictures/chainlit.svg" />
@@ -75,7 +75,7 @@
 <br>
 <img align="left" title="Pyomo" width="120px" src="./Pictures/pyomo.png" />
 <img align="left" title="Networkx" width="150px" src="./Pictures/networkx.svg" />
-<br><br><br><br>
+<br><br><br>
 
 ### <h3>Featured projects</h3>
 <table>
