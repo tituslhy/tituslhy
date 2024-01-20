@@ -72,8 +72,8 @@
 <img align="left" title="Streamlit" width="110px" src="./Pictures/Streamlit.png" />
 <img align="left" title="Chainlit" width="150px" src="./Pictures/chainlit.svg" />
 <img align="left" title="Gradio" width="150px" src="./Pictures/gradio.png" />
-<br><br><br><br><br>
 <img align="left" title="Pyomo" width="120px" src="./Pictures/pyomo.png" />
+<br><br><br><br><br>
 <img align="left" title="Networkx" width="150px" src="./Pictures/networkx.svg" />
 <br><br><br><br><br><br>
 
