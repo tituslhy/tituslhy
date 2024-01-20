@@ -3,7 +3,7 @@
 
 <p><b> Welcome to my GitHub page! </br> My name is Titus and I'm a data scientist from  Singapore<img src="./Pictures/singapore.png" width="50"/></b>
 
-🏫 I’ve graduated with my Masters degree in Artificial Intelligence 👨‍🎓 - those nights spent learning the fundamentals of AI (computer vision, natural language processing, recommender systems, machine learning, machine learning engineering, etc) were very memorable!<br><br>
+🏫 I’ve a Masters degree in Artificial Intelligence 👨‍🎓 but I'm forever playing catch-up with the rapidly developing field of data science 🤣. Nonetheless, those nights spent learning the fundamentals of AI (computer vision, natural language processing, recommender systems, machine learning, machine learning engineering, etc) were very memorable!<br><br>
 🌱 I’m currently learning more about software engineering in JavaScript - coding is so fun 👨‍💻! <br><br>
 🚀 Check out my [personal webpage](https://tituslim.onrender.com/)! <br><br>
 
@@ -62,6 +62,7 @@
 <img align="left" title="Huggingface" width="130px" src="./Pictures/huggingface.png" />
 <img align="left" title="LlamaIndex" width="130px" src="./Pictures/llamaindex.png" />
 <img align="left" title="LangChain" width="130px" src="./Pictures/langchain.png" />
+<img align="left" title="Chroma" width="130px" src="./Pictures/chroma.png" />
 <img align="left" title="PaddlePaddle" width="120px" src="./Pictures/PaddlePaddle.jpeg" />
 <img align="left" title="OpenCV" width="40px" src="./Pictures/OpenCV.png" />
 <img align ="left" title="NLTK" width="50px" src="./Pictures/nltk.png" />
@@ -71,6 +72,8 @@
 <img align="left" title="Networkx" width="150px" src="./Pictures/networkx.svg" />
 <img align="left" title="PySpark" width="120px" src="./Pictures/pyspark.png" />
 <img align="left" title="Streamlit" width="110px" src="./Pictures/Streamlit.png" />
+<img align="left" title="Chainlit" width="110px" src="./Pictures/chainlit.png" />
+<img align="left" title="Gradio" width="110px" src="./Pictures/Gradio.png" />
 <br><br><br>
 
 ### <h3>Featured projects</h3>
