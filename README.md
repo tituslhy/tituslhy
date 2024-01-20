@@ -62,7 +62,7 @@
 <img align="left" title="Huggingface" width="130px" src="./Pictures/huggingface.png" />
 <img align="left" title="LlamaIndex" width="130px" src="./Pictures/llamaindex.png" />
 <img align="left" title="LangChain" width="130px" src="./Pictures/langchain.png" />
-<img align="left" title="Chroma" width="80px" src="./Pictures/chroma.png" />
+<img align="left" title="Chroma" width="40px" src="./Pictures/chroma.png" />
 <img align="left" title="PaddlePaddle" width="120px" src="./Pictures/PaddlePaddle.jpeg" />
 <img align="left" title="OpenCV" width="40px" src="./Pictures/OpenCV.png" />
 <img align ="left" title="NLTK" width="50px" src="./Pictures/nltk.png" />
