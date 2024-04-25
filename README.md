@@ -72,7 +72,7 @@
 <img align="left" title="LangChain" width="130px" src="./Pictures/langchain.png" />
 <img align="left" title="Chroma" width="40px" src="./Pictures/chroma.png" />
 
-<br><br><br><br><br><br>
+<br><br><br>
 ### <h3>Featured projects</h3>
 <table>
   <thead align="center">
