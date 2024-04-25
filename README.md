@@ -66,7 +66,7 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
 ![Poetry](https://img.shields.io/badge/Poetry-%233B82F6.svg?style=for-the-badge&logo=poetry&logoColor=0B3D8D)
-<br><br><br>
+<br>
 <img align="left" title="Huggingface" width="130px" src="./Pictures/huggingface.png" />
 <img align="left" title="LlamaIndex" width="130px" src="./Pictures/llamaindex.png" />
 <img align="left" title="LangChain" width="130px" src="./Pictures/langchain.png" />
