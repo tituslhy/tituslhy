@@ -44,6 +44,8 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 ![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)
+<img align="left" title="Snowflake" width="130px" src="./Pictures/snowflake.jpeg" />
+<img align="left" title="Cloudera" width="130px" src="./Pictures/cloudera.png" />
 <br>
 
 <img align="left" title="SAS" width="80x" src="./Pictures/sas.svg" />
