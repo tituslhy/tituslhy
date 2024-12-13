@@ -59,12 +59,12 @@
         <img src="https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black">
         <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
         <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
-        <hr><hr>
-        <img title="LlamaIndex" width="130px" src="./Pictures/llamaindex.png" />
-        <img title="crewAI" width="130px" src="./Pictures/crew.png" />
-        <img title="Autogen" width="130px" src="./Pictures/autogen.png" />
-        <img title="Qdrant" width="130px" src="./Pictures/qdrant.svg" />
-        <img src="./Pictures/chainlit.svg" width = "130px" alt="Icon">
+        <hr>
+        <img align="center" title="LlamaIndex" width="130px" src="./Pictures/llamaindex.png" />
+        <img align="center" title="crewAI" width="130px" src="./Pictures/crew.png" />
+        <img align="center" title="Autogen" width="130px" src="./Pictures/autogen.png" />
+        <img align="center" title="Qdrant" width="130px" src="./Pictures/qdrant.svg" />
+        <img align="center" src="./Pictures/chainlit.svg" width = "130px" alt="Icon">
       </td>
       <td style="text-align: center;">
         <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
