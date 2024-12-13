@@ -25,7 +25,9 @@
   </li>
 </ol>
 
-<h3>🚀 Check out my <a href="https://tituslim.onrender.com/">personal webpage</a>!</h3>
+<div style="background-color: #f7f7f7; padding: 10px; border-radius: 5px;">
+  <h3>🚀 Check out my <a href="https://tituslim.onrender.com/">personal webpage</a>!</h3>
+</div>
 
 ### Let's connect!:
 [<img align="left" alt="Titus | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
