@@ -49,20 +49,22 @@
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
       </td>
       <td style="text-align: center;">
-        <img title="LlamaIndex" width="150px" src="./Pictures/llamaindex.png" />
-        <img title="crewAI" width="150px" src="./Pictures/crew.png" />
-        <img title="Autogen" width="150px" src="./Pictures/autogen.png" />
-        <img title="Qdrant" width="150px" src="./Pictures/qdrant.svg" />
-        <img src="./Pictures/chainlit.svg" width = "150px" alt="Icon">
+        <img title="LlamaIndex" width="100px" src="./Pictures/llamaindex.png" />
+        <img title="crewAI" width="100px" src="./Pictures/crew.png" />
+        <img title="Autogen" width="100px" src="./Pictures/autogen.png" />
+        <img title="Qdrant" width="100px" src="./Pictures/qdrant.svg" />
+        <img src="./Pictures/chainlit.svg" width = "100px" alt="Icon">
         <hr>
         <img src="https://img.shields.io/badge/LangChain-beb4fd?style=for-the-badge&logo=langchain&logoColor=black">
         <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
         <img src="https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge&logo=huggingface&logoColor=white">
         <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
         <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
+        <hr>
         <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
         <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
         <img src="https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black">
+        <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white">
         <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
         <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
       </td>
@@ -118,7 +120,7 @@
       <td style="text-align: left;">
         <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
         <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
-        <img title="Streamlit" width="100px" src="./Pictures/Streamlit.png" /></td>
+        <img title="Streamlit" width="100px" src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" /></td>
       </td>
     </tr>
     <tr>
@@ -156,7 +158,7 @@
       <img alt="Machine Learning Engineering" src="https://img.shields.io/badge/ML-ML%20Engineering-green"/></td>
       <td style="text-align: left;">
         <img alt="Google Cloud Platform" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-        <img title="Streamlit" width="100px" src="./Pictures/Streamlit.png" />
+        <img title="Streamlit" width="100px" src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" /></td>
       </td>
     </tr>
     <tr>
@@ -167,7 +169,7 @@
       <td style="text-align: left;">
         <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
         <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
-        <img title="Streamlit" width="100px" src="./Pictures/Streamlit.png" />
+        <img title="Streamlit" width="100px" src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" /></td>
       </td>
     </tr>
     <tr>
