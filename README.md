@@ -56,8 +56,8 @@
         <img title="LlamaIndex" width="130px" src="./Pictures/llamaindex.png" />
         <img title="crewAI" width="130px" src="./Pictures/crew.png" />
         <img title="Autogen" width="130px" src="./Pictures/autogen.png" />
-        <img src="./Pictures/chainlit.svg" alt="Icon">
         <img title="Qdrant" width="130px" src="./Pictures/qdrant.svg" />
+        <img src="./Pictures/chainlit.svg" width = "130px" alt="Icon">
       </td>
       <td>
         <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
