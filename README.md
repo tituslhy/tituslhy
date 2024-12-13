@@ -25,12 +25,13 @@
   </li>
 </ol>
 
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="50">
-  <rect width="100%" height="100%" fill="#c2c0c0" rx="10" />
-  <text x="10" y="30" font-size="16" fill="black">
-    🚀 Check out my <a href="https://tituslim.onrender.com/" fill="blue">personal webpage</a>!
-  </text>
-</svg>
+<table>
+  <tr>
+    <td style="background-color: #c2c0c0; padding: 10px; border-radius: 5px;">
+      <h3>🚀 Check out my <a href="https://tituslim.onrender.com/">personal webpage</a>!</h3>
+    </td>
+  </tr>
+</table>
 
 ### Let's connect!:
 [<img align="left" alt="Titus | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
