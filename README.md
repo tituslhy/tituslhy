@@ -59,6 +59,7 @@
         <img src="https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black">
         <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
         <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
+        <br><br>
         <img title="LlamaIndex" width="130px" src="./Pictures/llamaindex.png" />
         <img title="crewAI" width="130px" src="./Pictures/crew.png" />
         <img title="Autogen" width="130px" src="./Pictures/autogen.png" />
