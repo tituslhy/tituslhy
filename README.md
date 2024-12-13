@@ -52,10 +52,10 @@
       </td>
       <td style="text-align: center;">
         <h6>AI Frameworks</h6>
-        <img title="LlamaIndex" width="100px" src="./Pictures/llamaindex.png" /><br>
-        <img title="crewAI" width="100px" src="./Pictures/crew.png" /><br>
-        <img title="Autogen" width="100px" src="./Pictures/autogen.png" /><br>
-        <img title="Qdrant" width="100px" src="./Pictures/qdrant.svg" /><br>
+        <img title="LlamaIndex" width="50px" src="./Pictures/llamaindex.png" />
+        <img title="crewAI" width="50px" src="./Pictures/crew.png" /><br>
+        <img title="Autogen" width="50px" src="./Pictures/autogen.png" />
+        <img title="Qdrant" width="50px" src="./Pictures/qdrant.svg" /><br>
         <img src="./Pictures/chainlit.svg" width = "100px" alt="Icon"><br>
         <img src="https://img.shields.io/badge/LangChain-beb4fd?style=for-the-badge&logo=langchain&logoColor=black"><br>
         <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"><br>
