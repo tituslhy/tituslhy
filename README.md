@@ -30,14 +30,31 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ### I use these tools for Data Science:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Cloudera](https://img.shields.io/badge/Cloudera-F96702?style=for-the-badge&logo=cloudera&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+<table>
+  <thead align="center">
+    <tr border: none;>
+    <td><b>☁️ Platforms</b></td>
+    <td><b>🛠️ Tools</b></td>
+    <td><b>⭐ Frameworks</b></td>
+    <td><b>⛁ Database</b></td>
+    </tr>
+  </thead>
+    <tr>
+      <td>
+         <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+         <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
+         <img src="https://img.shields.io/badge/Cloudera-F96702?style=for-the-badge&logo=cloudera&logoColor=white">
+         <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white">
+         <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white">
+         <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
+      </td>
+    </tr>
+  <tbody>
+
+  </tbody>
+</table>
+
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### I use these tools for full stack development:
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -85,8 +102,7 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/tituslhy/TheMarginCall"><b>The Margin Call</b></a></td>
-      <td>LLMs for investing - technical analysis, fundamental analysis, AutoRAG, online research and AutoML to forecast stock prices
-      </td>
+      <td>LLMs for investing - technical analysis, fundamental analysis, AutoRAG, online research and AutoML to forecast stock prices</td>
       <td>
         <img alt="Generative AI" src="https://img.shields.io/badge/AI-Generative%20AI-FFD017"/>
         <img alt="Machine Learning" src="https://img.shields.io/badge/ML-Machine%20Learning-green"/>
