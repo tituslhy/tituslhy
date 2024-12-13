@@ -49,6 +49,7 @@
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"><br>
       </td>
       <td style="text-align: center;">
+        <h6>AI Frameworks</h6>
         <img title="LlamaIndex" width="100px" src="./Pictures/llamaindex.png" /><br>
         <img title="crewAI" width="100px" src="./Pictures/crew.png" /><br>
         <img title="Autogen" width="100px" src="./Pictures/autogen.png" /><br>
@@ -61,6 +62,7 @@
         <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"><br>
         <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"><br>
         <hr>
+        <h6>Software Engineering Frameworks</h6>
         <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"><br>
         <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"><br>
         <img src="https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black"><br>
