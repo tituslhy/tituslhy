@@ -64,6 +64,8 @@
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
 ### I enjoy using these frameworks:
+![LangChain](https://img.shields.io/badge/LangChain-beb4fd?style=for-the-badge&logo=langchain&logoColor=black)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge&logo=huggingface&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
@@ -73,13 +75,11 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
 ![Poetry](https://img.shields.io/badge/Poetry-%233B82F6.svg?style=for-the-badge&logo=poetry&logoColor=0B3D8D)
-![LangChain](https://img.shields.io/badge/LangChain-beb4fd?style=for-the-badge&logo=langchain&logoColor=black)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge&logo=huggingface&logoColor=white)
 <br>
 <img align="left" title="LlamaIndex" width="130px" src="./Pictures/llamaindex.png" />
 <img align="left" title="crewAI" width="130px" src="./Pictures/crew.png" />
 <img align="left" title="Autogen" width="130px" src="./Pictures/autogen.png" />
-<img align="left" title="Chroma" width="40px" src="./Pictures/chroma.png" />
+<img align="left" title="Qdrant" width="130px" src="./Pictures/qdrant.svg" />
 
 <br><br><br>
 ### <h3>Featured projects</h3>
@@ -151,7 +151,7 @@
       <td>This was an attempt at developing and quantizing image classification models for deployment to edge device through GCP to support the government's COVID-19 face mask detection enforcement measures. </td>
       <td><img alt="Computer Vision" src="https://img.shields.io/badge/AI-Computer%20Vision-blue"/>
       <img alt="Machine Learning Engineering" src="https://img.shields.io/badge/ML-ML%20Engineering-green"/></td>
-      <td style="text-align: left;"><td>
+      <td style="text-align: left;">
         <img alt="Google Cloud Platform" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
         <img title="Streamlit" width="100px" src="./Pictures/Streamlit.png" />
       </td>
