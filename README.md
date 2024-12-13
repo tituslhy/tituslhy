@@ -102,7 +102,7 @@
       <td>LLMs for investing - technical analysis, fundamental analysis, AutoRAG, online research and AutoML to forecast stock prices
       </td>
       <td>
-        <img alt="Generative AI" src="https://img.shields.io/badge/Generative%20AI-FFD017"/>
+        <img alt="Generative AI" src="https://img.shields.io/badge/AI-Generative%20AI-FFD017"/>
         <img alt="Machine Learning" src="https://img.shields.io/badge/ML-Machine%20Learning-green"/>
       </td>
       <td style="text-align: left;">
