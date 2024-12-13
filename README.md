@@ -5,7 +5,7 @@
 
 🏫 I’ve a Masters degree in Artificial Intelligence 👨‍🎓 but I'm forever playing catch-up with the rapidly developing field of data science 🤣. Nonetheless, those nights spent learning the fundamentals of AI (computer vision, natural language processing, recommender systems, machine learning, machine learning engineering, etc) were very memorable!<br><br>
 🤖  I specialize in developing LLM applications. I genuinely enjoy building agents and agentic RAG systems and basically live on the Llamaindex / Langchain / Chainlit / Autogen / CrewAI's documentation pages!<br><br>
-✍️  I write publish medium articles on generative AI frameworks for fun! <br><br>
+✍️  I write publish [medium articles](https://medium.com/@tituslhy) on generative AI frameworks for fun! <br><br>
 🦾  I'm also a citizen RPA developer. UiPath is awesome! ![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=UiPath&logoColor=white)<br><br>
 
 🌱 I’m hoping to learn more about full stack development and data engineering to become a more complete developer - coding is so fun 👨‍💻! ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -101,7 +101,7 @@
       <td>LLMs for investing - technical analysis, fundamental analysis, AutoRAG, online research and AutoML to forecast stock prices
       </td>
       <td>
-        <img alt="Generative AI" src="https://img.shields.io/badge/Generative%20A-FFD017"/>
+        <img alt="Generative AI" src="https://img.shields.io/badge/Generative%20AI-FFD017"/>
         <img alt="Machine Learning" src="https://img.shields.io/badge/ML-Machine%20Learning-green"/>
       </td>
       <td style="text-align: left;">
