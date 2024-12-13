@@ -18,6 +18,7 @@
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
   </li>
+  <br>
   <li>
     Quantum Computing - I believe it's the future and it's coming sooner than we think! ⚛<br>
     <img src="https://img.shields.io/badge/STATUS-STILL%20DREAMING-29B5E8"><br>
