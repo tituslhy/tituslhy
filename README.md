@@ -20,14 +20,14 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 <br>
-### I use these tools for Data Science:
+### I use these tools often for coding:
 <table>
   <thead align="center">
     <tr border: none;>
     <td><b>☁️ Platforms</b></td>
-    <td><b>🛠️ Tools</b></td>
+    <td><b>🛠️ DevOps and BI Tools</b></td>
     <td><b>⭐ Frameworks</b></td>
-    <td><b>⛁ Database</b></td>
+    <td><b>⛁ Databases</b></td>
     </tr>
   </thead>
   <tbody>
