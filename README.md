@@ -38,9 +38,9 @@
   </tr>
 </table>
 
-### Let's connect!:
-[<img align="left" alt="Titus | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br>
+<hr>
+
+## My Tech Stack
 
 ### I code in:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
