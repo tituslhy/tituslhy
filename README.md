@@ -104,8 +104,9 @@
       <td><a href="https://github.com/tituslhy/TheMarginCall"><b>The Margin Call</b></a></td>
       <td>LLMs for investing - technical analysis, fundamental analysis, AutoRAG, online research and AutoML to forecast stock prices</td>
       <td>
-        <img alt="Generative AI" src="https://img.shields.io/badge/AI-Generative%20AI-FFD017"/>
-        <img alt="Machine Learning" src="https://img.shields.io/badge/ML-Machine%20Learning-green"/>
+        <img alt="Generative AI" src="https://img.shields.io/badge/AI-Generative%20AI-FFD017"/><br>
+        <img alt="Machine Learning" src="https://img.shields.io/badge/ML-Machine%20Learning-green"/><br>
+        <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"><br>
       </td>
       <td style="text-align: left;">
         <img title="LlamaIndex" width="130px" src="./Pictures/llamaindex.png" />
@@ -118,7 +119,8 @@
       <td><a href="https://github.com/tituslhy/literate-octo-tribble"><b>A Gentle Introduction to the LLM Multiverse</b></a></td>
       <td>The GitHub repoository used for all Medium articles introducing LLM frameworks</td>
       <td>
-        <img alt="Generative AI" src="https://img.shields.io/badge/AI-Generative%20AI-FFD017"/>
+        <img alt="Generative AI" src="https://img.shields.io/badge/AI-Generative%20AI-FFD017"/><br>
+        <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"><br>
       </td>
       <td style="text-align: left;">
         <img title="LlamaIndex" width="130px" src="./Pictures/llamaindex.png" /><br>
@@ -189,9 +191,9 @@
       <td><img alt="Natural Language Processing" src="https://img.shields.io/badge/AI-Natural%20Language%20Processing-blue"/>
       <img alt="Machine Learning Engineering" src="https://img.shields.io/badge/ML-ML%20Engineering-green"/></td>
       <td style="text-align: left;">
-        <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
-        <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
-        <img title="Streamlit" width="100px" src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" /></td>
+        <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/><br>
+        <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/><br>
+        <img title="Streamlit" width="100px" src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" /><br>
       </td>
     </tr>
     <tr>
@@ -206,10 +208,13 @@
     <tr>
       <td><a href="https://github.com/vannarath-poeu/aml-project"><b>Improving NYC 311 Efficiency</b></a></td>
       <td>Forecasting closure duration of 311 complaints to support NYC agencies in case prioritization</td>
-      <td><img alt="Machine Learning" src="https://img.shields.io/badge/ML-Machine%20Learning-green"/></td>
+      <td>
+        <img alt="Machine Learning" src="https://img.shields.io/badge/ML-Machine%20Learning-green"/><br>
+        <img alt="Medium" src = "https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/><br>
+      </td>
       <td style="text-align: left;">
-        <img alt="SKLearn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-        <img title="XGBoost" width="100px" src="./Pictures/xgboost.png" />
+        <img alt="SKLearn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/><br>
+        <img title="XGBoost" width="100px" src="./Pictures/xgboost.png" /><br>
       </td>
     </tr>
     <tr>
@@ -217,11 +222,10 @@
       <td>Developing an entire proof-of-concept for IoT-driven pipelines using Arduino, SQL and Python.</td>
       <td><img alt="IoT" src="https://img.shields.io/badge/IoT-Sensors-yellowgreen"/></td>
       <td><img alt="MQTT" src="https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white"/>
-        <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-        <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
-        <img alt="SQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-        <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
-        <img alt="Medium" src = "https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+        <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/><br>
+        <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/><br>
+        <img alt="SQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/><br>
+        <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/><br>
     </tr>
     
     
