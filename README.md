@@ -7,7 +7,7 @@
 🤖  I genuinely enjoy building LLM applications (agents, agentic RAG systems, etc.) and basically live on the Llamaindex / Langchain / Chainlit / Autogen / CrewAI's documentation pages!<br><br>
 ✍️  I author and publish [medium articles](https://medium.com/@tituslhy) on generative AI frameworks for fun! <br><br>
 🦾  I'm also a citizen RPA developer. UiPath is awesome! <br> ![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=UiPath&logoColor=white)<br><br>
-🌱 I’m hoping to learn more about full stack development and data engineering to become a more complete developer - coding is so fun 👨‍💻! ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)<br><br>
+🌱 I’m hoping to learn more about full stack development and data engineering to become a more complete developer - coding is so fun 👨‍💻! <br>![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)<br><br>
 🚀 Check out my [personal webpage](https://tituslim.onrender.com/)! <br><br>
 
 ### Let's connect!:
@@ -44,6 +44,7 @@
         <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"><br>
         <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"><br>
         <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka"><br>
         <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"><br>
         <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"><br>
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"><br>
@@ -111,6 +112,26 @@
         <img title="Autogen" width="130px" src="./Pictures/autogen.png" />
         <img src="./Pictures/chainlit.svg" alt="Icon">
         <img align="left" title="Qdrant" width="130px" src="./Pictures/qdrant.svg" />
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/tituslhy/literate-octo-tribble"><b>A Gentle Introduction to the LLM Multiverse</b></a></td>
+      <td>The GitHub repoository used for all Medium articles introducing LLM frameworks</td>
+      <td>
+        <img alt="Generative AI" src="https://img.shields.io/badge/AI-Generative%20AI-FFD017"/>
+      </td>
+      <td style="text-align: left;">
+        <img title="LlamaIndex" width="130px" src="./Pictures/llamaindex.png" /><br>
+        <img title="Autogen" width="130px" src="./Pictures/autogen.png" /><br>
+         <img title="crewAI" width="100px" src="./Pictures/crew.png" /><br>
+         <img title="Haystack" width="130px" src="./Pictures/haystack.png" /><br>
+        <img src="./Pictures/chainlit.svg" alt="Icon"><br>
+        <img align="left" title="Qdrant" width="130px" src="./Pictures/qdrant.svg" /><br>
+        <img src="https://img.shields.io/badge/LangChain-beb4fd?style=for-the-badge&logo=langchain&logoColor=black"><br>
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka"><br>
+        <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"><br>
       </td>
     </tr>
     <tr>
