@@ -32,7 +32,7 @@
   </thead>
   <tbody>
     <tr>
-      <td>
+      <td style="text-align: center;">
          <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
          <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
          <img src="https://img.shields.io/badge/Cloudera-F96702?style=for-the-badge&logo=cloudera&logoColor=white">
@@ -40,7 +40,7 @@
          <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white">
          <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
       </td>
-      <td>
+      <td style="text-align: center;">
         <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
         <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
         <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">
@@ -48,7 +48,7 @@
         <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
       </td>
-      <td>
+      <td style="text-align: center;">
         <img src="https://img.shields.io/badge/LangChain-beb4fd?style=for-the-badge&logo=langchain&logoColor=black">
         <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
         <img src="https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge&logo=huggingface&logoColor=white">
@@ -59,14 +59,14 @@
         <img src="https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black">
         <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
         <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
-        <br><br>
+        <hr><hr>
         <img title="LlamaIndex" width="130px" src="./Pictures/llamaindex.png" />
         <img title="crewAI" width="130px" src="./Pictures/crew.png" />
         <img title="Autogen" width="130px" src="./Pictures/autogen.png" />
         <img title="Qdrant" width="130px" src="./Pictures/qdrant.svg" />
         <img src="./Pictures/chainlit.svg" width = "130px" alt="Icon">
       </td>
-      <td>
+      <td style="text-align: center;">
         <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
         <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white">
         <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white">
