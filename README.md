@@ -7,7 +7,15 @@
 🤖  I genuinely enjoy building LLM applications (agents, agentic RAG systems, etc.) and basically live on the Llamaindex / Langchain / Chainlit / Autogen / CrewAI's documentation pages!<br><br>
 ✍️  I author and publish [medium articles](https://medium.com/@tituslhy) on generative AI frameworks for fun! <br><br>
 🦾  I'm also a citizen RPA developer. UiPath is awesome! <br> ![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=UiPath&logoColor=white)<br><br>
-🌱 I’m hoping to learn more about full stack development and data engineering to become a more complete developer - coding is so fun 👨‍💻! <br>![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)<br><br>
+🌱 I’m hoping to learn more about: 
+<ol>
+  <li>
+    full stack development and data engineering to become a more complete developer - coding is so fun 👨‍💻! <br>![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  </li>
+  <li>
+    Quantum Computing - I believe it's the future and it's coming sooner than we think! ⚛<br>!![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
+  </li>
+</ol>
 🚀 Check out my [personal webpage](https://tituslim.onrender.com/)! <br><br>
 
 ### Let's connect!:
