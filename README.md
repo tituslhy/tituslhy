@@ -4,9 +4,9 @@
 <p><b> Welcome to my GitHub page! </br> My name is Titus and I'm a data scientist from  Singapore<img src="./Pictures/singapore.png" width="50"/></b>
 
 🏫 I’ve a Masters degree in Artificial Intelligence 👨‍🎓 but I'm forever playing catch-up with the rapidly developing field of data science 🤣. Nonetheless, those nights spent learning the fundamentals of AI (computer vision, natural language processing, recommender systems, machine learning, machine learning engineering, etc) were very memorable!<br><br>
-👨🏻‍💻 This year, I've been dabbling in plenty of LLM application development. I enjoy building agents and agentic RAG systems and basically live on the Llamaindex and Langchain documentation page!<br><br>
-
-✍️ I've also picked up writing and have published medium articles on generative AI tools! <br><br>
+🤖  I specialize in developing LLM applications. I genuinely enjoy building agents and agentic RAG systems and basically live on the Llamaindex / Langchain / Chainlit / Autogen / CrewAI's documentation pages!<br><br>
+✍️  I write publish medium articles on generative AI frameworks for fun! <br><br>
+🦾  I'm also a citizen RPA developer. UiPath is awesome! ![UiPath](https://img.shields.io/badge/UiPath-FF7F50?style=for-the-badge&logo=UiPath&logoColor=white)
 
 🌱 I’m hoping to learn more about full stack development and data engineering to become a more complete developer - coding is so fun 👨‍💻! ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)<br><br>
@@ -73,10 +73,10 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
 ![Poetry](https://img.shields.io/badge/Poetry-%233B82F6.svg?style=for-the-badge&logo=poetry&logoColor=0B3D8D)
+![LangChain](https://img.shields.io/badge/LangChain-beb4fd?style=for-the-badge&logo=langchain&logoColor=black)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge&logo=huggingface&logoColor=white)
 <br>
-<img align="left" title="Huggingface" width="130px" src="./Pictures/huggingface.png" />
 <img align="left" title="LlamaIndex" width="130px" src="./Pictures/llamaindex.png" />
-<img align="left" title="LangChain" width="130px" src="./Pictures/langchain.png" />
 <img align="left" title="crewAI" width="130px" src="./Pictures/crew.png" />
 <img align="left" title="Autogen" width="130px" src="./Pictures/autogen.png" />
 <img align="left" title="Chroma" width="40px" src="./Pictures/chroma.png" />
@@ -94,22 +94,38 @@
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/tituslhy/TheMarginCall"><b>The Margin Call</b></a></td>
+      <td>LLMs for investing - technical analysis, fundamental analysis, AutoRAG, online research and AutoML to forecast stock prices
+      </td>
+      <td>
+        <img alt="Generative AI" src="https://img.shields.io/badge/Generative%20A-FFD017"/>
+        <img alt="Machine Learning" src="https://img.shields.io/badge/ML-Machine%20Learning-green"/>
+      </td>
+      <td style="text-align: left;">
+        <img title="LlamaIndex" width="130px" src="./Pictures/llamaindex.png" />
+        <img title="Autogen" width="130px" src="./Pictures/autogen.png" />
+        <img src="./Pictures/chainlit.svg" alt="Icon">
+      </td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/teyang-lau/you-only-edit-once"><b>You Only Edit Once</b></a></td>
       <td>Using object detection models to trim and beautify diving videos - feel free to try it out!
       </td>
       <td><img alt="Computer Vision" src="https://img.shields.io/badge/AI-Computer%20Vision-blue"/></td>
-      <td><img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
-         <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
-        <img align="left" title="Streamlit" width="100px" src="./Pictures/Streamlit.png" /></td>
+      <td style="text-align: left;">
+        <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+        <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+        <img title="Streamlit" width="100px" src="./Pictures/Streamlit.png" /></td>
       </td>
     </tr>
     <tr>
       <td><a href="https://github.com/quekhyg/NLP-Lyric-Generator"><b>A Song for Singapore</b></a></td>
       <td>Using LSTM, GRU, Seq2Seq models and GPT-2 to write lyrics, melody, harmony and sing out Singapore's next national day song!</td>
       <td><img alt="Natural Language Processing" src="https://img.shields.io/badge/AI-Natural%20Language%20Processing-blue"/></td>
-      <td><img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
-      <img alt="AITextGen" width="200px" src="./Pictures/aitextgen.png" />
-      <img alt="JukeBox" width="200px" src="./Pictures/jukebox.png" />
+      <td>
+        <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+        <img alt="AITextGen" width="200px" src="./Pictures/aitextgen.png" />
+        <img alt="JukeBox" width="200px" src="./Pictures/jukebox.png" />
       </td>
     </tr>
     <tr>
@@ -118,8 +134,10 @@
       <td><img alt="Computer Vision" src="https://img.shields.io/badge/AI-Computer%20Vision-blue"/>
       <img alt="Natural Language Processing" src="https://img.shields.io/badge/AI-Natural%20Language%20Processing-blue"/>
       <img alt="Recommender Systems" src="https://img.shields.io/badge/AI-Recommender%20Systems-blue"/></td>
-      <td><img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
-      <img align="left" title="Networkx" width="150px" src="./Pictures/networkx.svg" /></td>
+      <td style="text-align: left;">
+        <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+        <img title="Networkx" width="150px" src="./Pictures/networkx.svg" />
+      </td>
     </tr>
     <tr>
       <td><a href="https://github.com/spencerkmarley/cs612-ai-sys-eval-project"><b>AI Backdoor Catcher</b></a></td>
@@ -133,18 +151,20 @@
       <td>This was an attempt at developing and quantizing image classification models for deployment to edge device through GCP to support the government's COVID-19 face mask detection enforcement measures. </td>
       <td><img alt="Computer Vision" src="https://img.shields.io/badge/AI-Computer%20Vision-blue"/>
       <img alt="Machine Learning Engineering" src="https://img.shields.io/badge/ML-ML%20Engineering-green"/></td>
-      <td><img alt="Google Cloud Platform" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-      <img align="left" title="Streamlit" width="100px" src="./Pictures/Streamlit.png" /></td>
+      <td style="text-align: left;"><td>
+        <img alt="Google Cloud Platform" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+        <img title="Streamlit" width="100px" src="./Pictures/Streamlit.png" />
+      </td>
     </tr>
     <tr>
       <td><a href="https://github.com/tituslhy/Skimlit"><b>Skimlit</b></a></td>
       <td>The aim of this project is to make chunky abstracts/summaries appear skimmable,and follows the experiments (and data) by the paper: [PubMed 200k RCT: a Dataset for Sequenctial Sentence Classification in Medical Abstracts](https://arxiv.org/abs/1710.06071). </td>
       <td><img alt="Natural Language Processing" src="https://img.shields.io/badge/AI-Natural%20Language%20Processing-blue"/>
       <img alt="Machine Learning Engineering" src="https://img.shields.io/badge/ML-ML%20Engineering-green"/></td>
-      <td>
-      <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
-      <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
-      <img align="left" title="Streamlit" width="100px" src="./Pictures/Streamlit.png" />
+      <td style="text-align: left;">
+        <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+        <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
+        <img title="Streamlit" width="100px" src="./Pictures/Streamlit.png" />
       </td>
     </tr>
     <tr>
@@ -160,8 +180,10 @@
       <td><a href="https://github.com/vannarath-poeu/aml-project"><b>Improving NYC 311 Efficiency</b></a></td>
       <td>Forecasting closure duration of 311 complaints to support NYC agencies in case prioritization</td>
       <td><img alt="Machine Learning" src="https://img.shields.io/badge/ML-Machine%20Learning-green"/></td>
-      <td><img alt="SKLearn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-      <img align="left" title="XGBoost" width="100px" src="./Pictures/xgboost.png" /></td>
+      <td style="text-align: left;">
+        <img alt="SKLearn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+        <img title="XGBoost" width="100px" src="./Pictures/xgboost.png" />
+      </td>
     </tr>
     <tr>
       <td><a href="https://medium.com/@yenjoon.tan.2020/the-iot-liquid-pipeline-monitoring-system-2c6e66d75b9d"><b>The IoT Liquid Pipeline Monitoring System</b></a></td>
