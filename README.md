@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello! Nice to meet you!</h1>
 
 
-<p><b> Welcome to my GitHub page! </br> My name is Titus and I'm a data scientist from  Singapore<img src="./Pictures/singapore.png" width="50"/></b>
+<p><b> Welcome to my GitHub page! </br> My name is Titus and I'm a data scientist from  Singapore&nbsp;&nbsp;&nbsp;&nbsp;<img src="./Pictures/singapore.png" width="50"/></b>
 
 🏫 I’ve a Masters degree in Artificial Intelligence 👨‍🎓 but I'm forever playing catch-up with the rapidly developing field of data science 🤣. Nonetheless, those nights spent learning the fundamentals of AI (computer vision, natural language processing, recommender systems, machine learning, machine learning engineering, etc) were very memorable!<br><br>
 🤖  I genuinely enjoy building LLM applications (agents, agentic RAG systems, etc.) and basically live on the Llamaindex / Langchain / Chainlit / Autogen / CrewAI's documentation pages!<br><br>
