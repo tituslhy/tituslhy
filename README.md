@@ -25,7 +25,7 @@
   </li>
 </ol>
 
-<div style="background-color: #f7f7f7; padding: 10px; border-radius: 5px;">
+<div style="background-color: #c2c0c0; padding: 10px; border-radius: 5px;">
   <h3>🚀 Check out my <a href="https://tituslim.onrender.com/">personal webpage</a>!</h3>
 </div>
 
