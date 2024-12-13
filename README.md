@@ -129,7 +129,7 @@
          <img title="crewAI" width="100px" src="./Pictures/crew.png" /><br>
          <img title="Haystack" width="130px" src="./Pictures/haystack.png" /><br>
         <img src="./Pictures/chainlit.svg" width="130px" alt="Icon"><br>
-        <img align="left" title="Qdrant" width="130px" src="./Pictures/qdrant.svg"/><br><br><br><br>
+        <img align="left" title="Qdrant" width="130px" src="./Pictures/qdrant.svg"/><br><br><br>
         <img src="https://img.shields.io/badge/LangChain-beb4fd?style=for-the-badge&logo=langchain&logoColor=black"><br>
         <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"><br>
         <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"><br>
