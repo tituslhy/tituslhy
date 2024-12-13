@@ -31,6 +31,11 @@
       <h3>🚀 Check out my <a href="https://tituslim.onrender.com/">personal webpage</a>!</h3>
     </td>
   </tr>
+  <tr>
+    <td style="background-color: #c2c0c0; padding: 10px; border-radius: 5px;">
+      <h3><a href="https://www.linkedin.com/in/titus-lim-hsien-yong/">Let's connect!<img align="left" alt="Titus | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a></h3>
+    </td>
+  </tr>
 </table>
 
 ### Let's connect!:
