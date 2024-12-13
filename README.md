@@ -55,7 +55,6 @@
         <img title="Autogen" width="100px" src="./Pictures/autogen.png" /><br>
         <img title="Qdrant" width="100px" src="./Pictures/qdrant.svg" /><br>
         <img src="./Pictures/chainlit.svg" width = "100px" alt="Icon"><br>
-        <hr>
         <img src="https://img.shields.io/badge/LangChain-beb4fd?style=for-the-badge&logo=langchain&logoColor=black"><br>
         <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"><br>
         <img src="https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge&logo=huggingface&logoColor=white"><br>
