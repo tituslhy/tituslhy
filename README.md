@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
   </li>
   <li>
-    Quantum Computing - I believe it's the future and it's coming sooner than we think! ⚛<br><img src="https://img.shields.io/badge/STATUS-STILL%20DREAMING-<#29B5E8>.svg"><br>
+    Quantum Computing - I believe it's the future and it's coming sooner than we think! ⚛<br><img src="https://img.shields.io/badge/STATUS-STILL%20DREAMING-29B5E8"><br>
     <img src="https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white">
   </li>
 </ol>
