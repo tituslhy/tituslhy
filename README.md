@@ -12,11 +12,20 @@
   <li>
     Full stack development and data engineering to become a more complete developer - coding is so fun 👨‍💻!<br> 
     <img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-<COLOR>.svg"><br>
-    <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white">
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  </li>
+  <br>
+  <li>
+    Data engineering - Developing robust data pipelines 🛠️!<br> 
+    <img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-<COLOR>.svg"><br>
+    <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white">
+    <img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black">
+    <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black">
+    <img src="./pictures/iceberg.png">
+    <img src="./pictures/arrow.png">
   </li>
   <br>
   <li>
@@ -33,7 +42,7 @@
     </td>
   </tr>
   <tr>
-    <td style="background-color: #c2c0c0; padding: 10px; border-radius: 5px;">
+    <td style="background-color:rgb(12, 12, 12); padding: 10px; border-radius: 5px;">
       <h3><a href="https://www.linkedin.com/in/titus-lim-hsien-yong/">Let's connect!<img align="left" alt="Titus | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a></h3>
     </td>
   </tr>
