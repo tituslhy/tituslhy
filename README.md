@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black">
     <img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black">
     <!-- <img src="./Pictures/iceberg.png" width="30px"> -->
-    <img src="./Pictures/arrow.png" width = "30px">
+    <img src="./Pictures/arrow.png" width = "100px">
   </li>
   <br>
   <li>
