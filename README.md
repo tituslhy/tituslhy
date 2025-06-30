@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white">
     <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black">
     <img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black"><br><br>
-    <img src="./Pictures/iceberg.png">
+    <img src="./Pictures/iceberg.png" width="30px">
     <img src="./Pictures/arrow.png">
   </li>
   <br>
