@@ -133,7 +133,7 @@
 
 ### I use these tools for Automation:
 ![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=UiPath&logoColor=white)
-<img src="./Pictures/n8n.png">
+<img src="./Pictures/n8n.png" width="80px">
 
 ### I use these tools for IoT:
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
