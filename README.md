@@ -114,7 +114,7 @@
     <tr>
       <td><b>🤖 AI Frameworks</b></td>
       <td>
-        <img title="LlamaIndex" height="80px" src="./Pictures/llamaindex.png" />
+        <img title="LlamaIndex" height="40px" src="./Pictures/llamaindex.png" />
         <img title="LangChain" width="150px" src="./Pictures/langchain.svg" />
         <img title="LangGraph" width="150px" src="./Pictures/langgraph.svg" />
         <img title="Unsloth" width="150px" src="./Pictures/unsloth.png" />
