@@ -120,7 +120,12 @@
         <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
       </td>
     </tr>
-    <!-- Platforms -->
+    <tr>
+      <td>Optimization / Modeling</td>
+      <td>
+        <img title="Pyomo" width="120px" src="./Pictures/pyomo.png">
+      </td>
+    </tr>
     <tr>
       <td><b>☁️ Platforms</b></td>
       <td>
@@ -157,6 +162,7 @@
     <tr>
       <td><b>📦 Data Engineering</b></td>
       <td>
+        <img title="PySpark" width="120px" src="./Pictures/pyspark.png">
         <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white">
       </td>
     </tr>
