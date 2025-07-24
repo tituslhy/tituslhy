@@ -81,7 +81,7 @@
       </td>
     </tr>
     <tr>
-      <td><b>📡 Backend</b></td>
+      <td><b>🛠️ Backend</b></td>
       <td>
         <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
         <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
@@ -140,7 +140,7 @@
     <tr>
       <td><b>🧰 DevOps & MLOps</b></td>
       <td>
-        <img title="helm charts" width="120px" src="./Pictures/helm.png">
+        <img title="helm charts" width="120px" src="./Pictures/helm chart.png">
         <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
         <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
         <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">
@@ -169,8 +169,15 @@
     <tr>
       <td><b>⚙️ Automation</b></td>
       <td>
-        <img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=UiPath&logoColor=white">
+        <img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=UiPath&logoColor=white"><br><br>
         <img src="./Pictures/n8n.png" width="80px">
+      </td>
+    </tr>
+    <tr>
+      <td><b>📡 IoT</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"><br><br>
+        <img src="https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white"><br><br>
       </td>
     </tr>
     <tr>
