@@ -10,7 +10,7 @@
 🌱 I’m hoping to learn more about: 
 <ol>
   <li>
-    Full stack development and data engineering to become a more complete developer - coding is so fun 👨‍💻!<br> 
+    Full stack development to become a more complete developer - coding is so fun 👨‍💻!<br> 
     <img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-<COLOR>.svg"><br>
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
