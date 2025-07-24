@@ -164,7 +164,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/tituslhy/literate-octo-tribble"><b>A Gentle Introduction to the LLM Multiverse</b></a></td>
-      <td>The GitHub repoository used for all Medium articles introducing LLM frameworks</td>
+      <td>The GitHub repository used for all Medium articles introducing LLM frameworks</td>
       <td>
         <img alt="Generative AI" src="https://img.shields.io/badge/AI-Generative%20AI-FFD017"/><br>
         <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"><br>
