@@ -162,14 +162,14 @@
     <tr>
       <td><b>🧱 Data Engineering</b></td>
       <td>
-        <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"><br><br>
+        <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"><br>
         <img title="PySpark" width="120px" src="./Pictures/pyspark.png">
       </td>
     </tr>
     <tr>
       <td><b>⚙️ Automation</b></td>
       <td>
-        <img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=UiPath&logoColor=white"><br><br>
+        <img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=UiPath&logoColor=white"><br>
         <img src="./Pictures/n8n.png" width="80px">
       </td>
     </tr>
