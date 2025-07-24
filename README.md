@@ -58,73 +58,126 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 <br>
+
 ### I use these tools and frameworks:
-<table>
-  <thead align="center">
-    <tr border: none;>
-    <td><b>☁️ Platforms</b></td>
-    <td><b>🛠️ Software Engineering, DevOps and BI Stack</b></td>
-    <td><b>⭐ Frameworks</b></td>
-    <td><b>⛁ Databases</b></td>
+<table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; text-align: center;">
+  <thead>
+    <tr>
+      <th>Category</th>
+      <th>Tools</th>
     </tr>
   </thead>
   <tbody>
+    <!-- Frontend -->
     <tr>
-      <td style="text-align: center;">
-         <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/><br>
-         <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"><br>
-         <img src="https://img.shields.io/badge/Cloudera-F96702?style=for-the-badge&logo=cloudera&logoColor=white"><br>
-         <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"><br>
-         <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white"><br>
-         <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"><br>
+      <td><b>🖼️ Frontend</b></td>
+      <td>
+        <img src="./Pictures/chainlit.svg" width="90px" alt="Icon">
+        <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
+        <img src="https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black">
+        <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white">
+        <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+        <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
       </td>
-      <td style="text-align: center;">
-        <h6>DevOps and MLOps Tools</h6>
-          <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"><br>
-          <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"><br>
-          <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"><br>
-          <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"><br>
-          <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka"><br>
-          <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"><br>
-          <img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue"><br>
-        <hr>
-        <h6>Software Engineering Tools</h6>
-          <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"><br>
-          <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"><br>
-          <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white"><br>
-          <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"><br>
-        <hr>
-        <h6>Business Intelligence Tools</h6>
-        <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"><br>
+    </tr>
+
+    <!-- Backend -->
+    <tr>
+      <td><b>🧩 Backend</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
+        <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
       </td>
-      <td style="text-align: center;">
-        <h6>AI Frameworks</h6>
-        <img title="LlamaIndex" width="150px" src="./Pictures/llamaindex.png" /><br>
+    </tr>
+
+    <!-- Databases -->
+    <tr>
+      <td><b>⛁ Databases</b></td>
+      <td>
+        <img title="Qdrant" width="90px" src="./Pictures/qdrant.svg" />
+        <img title="Chroma" width="50px" src="./Pictures/chroma.png" />
+        <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+        <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white">
+        <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white">
+        <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+        <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+        <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+      </td>
+    </tr>
+
+    <!-- AI Frameworks -->
+    <tr>
+      <td><b>⭐ AI Frameworks</b></td>
+      <td>
+        <img title="LlamaIndex" width="150px" src="./Pictures/llamaindex.png" />
+        <img title="Unsloth" width="150px" src="./Pictures/unsloth.png" />
+        <img title="vLLM" width="150px" src="./Pictures/vllm.png" />
+        <img title="LiteLLM" width="150px" src="./Pictures/litellm.png" />
+        <img title="Giskard" width="120px" src="./Pictures/dspy.png" />
+        <img title="dspy" width="150px" src="./Pictures/giskard.png" />
+        <img title="Ollama" width="120px" src="./Pictures/ollama.png" />
         <img title="crewAI" width="80px" src="./Pictures/crew.png" />
-        <img title="Autogen" width="80px" src="./Pictures/autogen.png" /><br>
-        <img title="Qdrant" width="80px" src="./Pictures/qdrant.svg" />
-        <img src="./Pictures/chainlit.svg" width = "80px" alt="Icon"><br>
-        <img src="https://img.shields.io/badge/LangChain-beb4fd?style=for-the-badge&logo=langchain&logoColor=black"><br>
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"><br>
-        <img src="https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge&logo=huggingface&logoColor=white"><br>
-        <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"><br>
-        <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"><br>
-        <hr>
-        <h6>Software Engineering Frameworks</h6>
-        <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"><br>
-        <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"><br>
-        <img src="https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black"><br>
-        <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white"><br>
-        <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"><br>
-        <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"><br>
+        <img title="Autogen" width="80px" src="./Pictures/autogen.png" /><br><br>
+        <img title="LangGraph" width="150px" src="./Pictures/langgraph.avif" />
+        <img src="https://img.shields.io/badge/LangChain-beb4fd?style=for-the-badge&logo=langchain&logoColor=black">
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
+        <img src="https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge&logo=huggingface&logoColor=white">
+        <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
+        <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
       </td>
-      <td style="text-align: center;">
-        <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"><br>
-        <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"><br>
-        <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white"><br>
-        <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"><br>
-        <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"><br>
-        <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"><br>
+    </tr>
+
+    <!-- Platforms -->
+    <tr>
+      <td><b>☁️ Platforms</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+        <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
+        <img src="https://img.shields.io/badge/Cloudera-F96702?style=for-the-badge&logo=cloudera&logoColor=white">
+        <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white">
+        <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white">
+        <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
+      </td>
+    </tr>
+
+    <!-- DevOps & MLOps -->
+    <tr>
+      <td><b>🧰 DevOps & MLOps</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+        <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
+        <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">
+        <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
+        <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka">
+        <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white">
+        <img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue">
+      </td>
+    </tr>
+
+    <!-- Infrastructure & Monitoring -->
+    <tr>
+      <td><b>🖥️ Infrastructure & Monitoring</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
+        <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white">
+        <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white">
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+      </td>
+    </tr>
+
+    <!-- Data Engineering -->
+    <tr>
+      <td><b>📦 Data Engineering</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white">
+      </td>
+    </tr>
+
+    <!-- Business Intelligence -->
+    <tr>
+      <td><b>📊 Business Intelligence</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
       </td>
     </tr>
 
