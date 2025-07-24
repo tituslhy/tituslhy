@@ -84,9 +84,9 @@
       <td><b>🖼️ Frontend</b></td>
       <td>
         <img src="./Pictures/chainlit.svg" width="90px" alt="Icon">
+        <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white"><br><br>
         <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
         <img src="https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black">
-        <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white">
         <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
         <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
       </td>
@@ -115,6 +115,8 @@
       <td><b>🤖 AI Frameworks</b></td>
       <td>
         <img title="LlamaIndex" width="150px" src="./Pictures/llamaindex.png" />
+        <img title="LangChain" width="150px" src="./Pictures/langchain.svg" />
+        <img title="LangGraph" width="150px" src="./Pictures/langgraph.svg" />
         <img title="Unsloth" width="150px" src="./Pictures/unsloth.png" />
         <img title="vLLM" width="150px" src="./Pictures/vllm.png" />
         <img title="LiteLLM" width="150px" src="./Pictures/litellm.png" />
@@ -123,8 +125,6 @@
         <img title="Ollama" width="120px" src="./Pictures/ollama.png" />
         <img title="crewAI" width="80px" src="./Pictures/crew.png" />
         <img title="Autogen" width="80px" src="./Pictures/autogen.png" /><br><br>
-        <img title="LangGraph" width="150px" src="./Pictures/langgraph.avif" />
-        <img src="https://img.shields.io/badge/LangChain-beb4fd?style=for-the-badge&logo=langchain&logoColor=black">
         <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
         <img src="https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge&logo=huggingface&logoColor=white">
         <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
