@@ -167,6 +167,13 @@
       </td>
     </tr>
     <tr>
+      <td><b>⚙️ Automation</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=UiPath&logoColor=white">
+        <img src="./Pictures/n8n.png" width="80px">
+      </td>
+    </tr>
+    <tr>
       <td><b>📊 Business Intelligence</b></td>
       <td>
         <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
@@ -176,13 +183,10 @@
   </tbody>
 </table>
 
-### I use these tools for Automation:
-![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=UiPath&logoColor=white)
-<img src="./Pictures/n8n.png" width="80px">
-
 ### I use these tools for IoT:
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
+
 ### <h3>Featured projects</h3>
 <table>
   <thead align="center">
