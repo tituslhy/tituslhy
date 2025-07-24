@@ -5,7 +5,7 @@
 
 🏫 I’ve a Masters degree in Artificial Intelligence 👨‍🎓 but I'm forever playing catch-up with the rapidly developing field of data science 🤣. Nonetheless, those nights spent learning the fundamentals of AI (computer vision, natural language processing, recommender systems, machine learning, machine learning engineering, etc) were very memorable!<br><br>
 🤖  I genuinely enjoy building LLM applications (agents, agentic RAG systems, etc.) and basically live on the Llamaindex / Langchain / Chainlit / Autogen / CrewAI's documentation pages!<br><br>
-✍️  I author and publish [medium articles](https://medium.com/@tituslhy) on generative AI frameworks for fun! 	![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)<br><br>
+✍️  I author and publish [medium articles](https://medium.com/@tituslhy) on generative AI frameworks for fun! <br>![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)<br><br>
 🦾  I'm also a citizen RPA developer. UiPath is awesome! <br> ![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=UiPath&logoColor=white)<br><br>
 🌱 I’m hoping to learn more about: 
 <ol>
@@ -81,7 +81,7 @@
       </td>
     </tr>
     <tr>
-      <td><b>🧩 Backend</b></td>
+      <td><b>📡 Backend</b></td>
       <td>
         <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
         <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
@@ -101,7 +101,7 @@
       </td>
     </tr>
     <tr>
-      <td><b>⭐ AI Frameworks</b></td>
+      <td><b>🤖 AI Frameworks</b></td>
       <td>
         <img title="LlamaIndex" width="150px" src="./Pictures/llamaindex.png" />
         <img title="Unsloth" width="150px" src="./Pictures/unsloth.png" />
@@ -121,7 +121,7 @@
       </td>
     </tr>
     <tr>
-      <td>Optimization / Modeling</td>
+      <td><b>🧮 Optimization / Modeling</b></td>
       <td>
         <img title="Pyomo" width="120px" src="./Pictures/pyomo.png">
       </td>
@@ -137,10 +137,10 @@
         <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
       </td>
     </tr>
-    <!-- DevOps & MLOps -->
     <tr>
       <td><b>🧰 DevOps & MLOps</b></td>
       <td>
+        <img title="helm charts" width="120px" src="./Pictures/helm.png">
         <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
         <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
         <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">
@@ -160,7 +160,7 @@
       </td>
     </tr>
     <tr>
-      <td><b>📦 Data Engineering</b></td>
+      <td><b>🧱 Data Engineering</b></td>
       <td>
         <img title="PySpark" width="120px" src="./Pictures/pyspark.png">
         <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white">
