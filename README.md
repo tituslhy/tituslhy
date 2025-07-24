@@ -60,7 +60,8 @@
 <br>
 
 ### I use these tools and frameworks:
-<table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; text-align: center;">
+
+<table>
   <thead>
     <tr>
       <th>Category</th>
@@ -68,7 +69,6 @@
     </tr>
   </thead>
   <tbody>
-    <!-- Frontend -->
     <tr>
       <td><b>🖼️ Frontend</b></td>
       <td>
@@ -80,8 +80,6 @@
         <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
       </td>
     </tr>
-
-    <!-- Backend -->
     <tr>
       <td><b>🧩 Backend</b></td>
       <td>
@@ -89,8 +87,6 @@
         <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
       </td>
     </tr>
-
-    <!-- Databases -->
     <tr>
       <td><b>⛁ Databases</b></td>
       <td>
@@ -104,8 +100,6 @@
         <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
       </td>
     </tr>
-
-    <!-- AI Frameworks -->
     <tr>
       <td><b>⭐ AI Frameworks</b></td>
       <td>
@@ -126,7 +120,6 @@
         <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
       </td>
     </tr>
-
     <!-- Platforms -->
     <tr>
       <td><b>☁️ Platforms</b></td>
@@ -139,7 +132,6 @@
         <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
       </td>
     </tr>
-
     <!-- DevOps & MLOps -->
     <tr>
       <td><b>🧰 DevOps & MLOps</b></td>
@@ -153,8 +145,6 @@
         <img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue">
       </td>
     </tr>
-
-    <!-- Infrastructure & Monitoring -->
     <tr>
       <td><b>🖥️ Infrastructure & Monitoring</b></td>
       <td>
@@ -164,16 +154,12 @@
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
       </td>
     </tr>
-
-    <!-- Data Engineering -->
     <tr>
       <td><b>📦 Data Engineering</b></td>
       <td>
         <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white">
       </td>
     </tr>
-
-    <!-- Business Intelligence -->
     <tr>
       <td><b>📊 Business Intelligence</b></td>
       <td>
