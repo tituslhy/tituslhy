@@ -5,7 +5,7 @@
 
 🏫 I’ve a Masters degree in Artificial Intelligence 👨‍🎓 but I'm forever playing catch-up with the rapidly developing field of data science 🤣. Nonetheless, those nights spent learning the fundamentals of AI (computer vision, natural language processing, recommender systems, machine learning, machine learning engineering, etc) were very memorable!<br><br>
 🤖  I genuinely enjoy building LLM applications (agents, agentic RAG systems, etc.) and basically live on the Llamaindex / Langchain / Chainlit / Autogen / CrewAI's documentation pages!<br><br>
-✍️  I author and publish [medium articles](https://medium.com/@tituslhy) on generative AI frameworks for fun! <br><br>
+✍️  I author and publish [medium articles](https://medium.com/@tituslhy) on generative AI frameworks for fun! 	![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)<br><br>
 🦾  I'm also a citizen RPA developer. UiPath is awesome! <br> ![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=UiPath&logoColor=white)<br><br>
 🌱 I’m hoping to learn more about: 
 <ol>
@@ -63,7 +63,7 @@
   <thead align="center">
     <tr border: none;>
     <td><b>☁️ Platforms</b></td>
-    <td><b>🛠️ DevOps/MLOps and BI Tools</b></td>
+    <td><b>🛠️ Software Engineering, DevOps and BI Stack</b></td>
     <td><b>⭐ Frameworks</b></td>
     <td><b>⛁ Databases</b></td>
     </tr>
@@ -89,6 +89,7 @@
           <img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue"><br>
         <hr>
         <h6>Software Engineering Tools</h6>
+          <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"><br>
           <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"><br>
           <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white"><br>
           <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"><br>
@@ -132,6 +133,7 @@
 
 ### I use these tools for Automation:
 ![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=UiPath&logoColor=white)
+<img src="./Pictures/n8n.png">
 
 ### I use these tools for IoT:
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
