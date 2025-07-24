@@ -162,8 +162,8 @@
     <tr>
       <td><b>🧱 Data Engineering</b></td>
       <td>
+        <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"><br><br>
         <img title="PySpark" width="120px" src="./Pictures/pyspark.png">
-        <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white">
       </td>
     </tr>
     <tr>
