@@ -5,10 +5,16 @@
 
 🏫 I’ve a Masters degree in Artificial Intelligence 👨‍🎓 but I'm forever playing catch-up with the rapidly developing field of data science 🤣. Nonetheless, those nights spent learning the fundamentals of AI (computer vision, natural language processing, recommender systems, machine learning, machine learning engineering, etc) were very memorable!<br><br>
 🤖  I genuinely enjoy building LLM applications (agents, agentic RAG systems, etc.) and basically live on the Llamaindex / Langchain / Chainlit / Autogen / CrewAI's documentation pages!<br><br>
-✍️  I author and publish [medium articles](https://medium.com/@tituslhy) on generative AI frameworks for fun! I've published 39 articles so far! <br>![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)<br><br>
+✍️  I author and publish [medium articles](https://medium.com/@tituslhy) on generative AI frameworks for fun! I've published 40 articles so far! <br>![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)<br><br>
 🦾  I'm also a citizen RPA developer. UiPath is awesome! <br> ![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=UiPath&logoColor=white)<br><br>
 🌱 I’m hoping to learn more about: 
 <ol>
+  <li>
+    Java - because almost every company uses Java ♨️!<br> 
+    <img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-<COLOR>.svg"><br>
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+  </li>
+  <br>
   <li>
     Full stack development to become a more complete developer - coding is so fun 👨‍💻!<br> 
     <img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-<COLOR>.svg"><br>
