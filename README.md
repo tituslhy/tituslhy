@@ -13,6 +13,7 @@
     Java - because almost every company uses Java ♨️!<br> 
     <img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-<COLOR>.svg"><br>
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+    <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
   </li>
   <br>
   <li>
