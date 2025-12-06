@@ -122,18 +122,18 @@
     <tr>
       <td><b>🤖 AI Frameworks</b></td>
       <td>
+        <img src="https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white"/>
+        <img src="https://img.shields.io/badge/langgraph-%231C3C3C.svg?style=for-the-badge&logo=langgraph&logoColor=white"/><br><br>
         <img title="LlamaIndex" height="50px" src="./Pictures/llamaindex.png" />
-        <img title="LangChain" width="150px" src="./Pictures/langchain.svg" />
-        <img title="LangGraph" width="150px" src="./Pictures/langgraph.svg" />
         <img title="Unsloth" width="150px" src="./Pictures/unsloth.png" />
         <img title="vLLM" width="150px" src="./Pictures/vllm.png" />
         <img title="LiteLLM" width="150px" src="./Pictures/litellm.png" />
         <img title="Giskard" width="120px" src="./Pictures/dspy.png" />
         <img title="dspy" width="150px" src="./Pictures/giskard.png" />
-        <img title="Ollama" width="120px" src="./Pictures/ollama.png" />
         <img title="crewAI" width="80px" src="./Pictures/crew.png" />
         <img title="Autogen" width="80px" src="./Pictures/autogen.png" /><br><br>
         <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
+        <img src="https://img.shields.io/badge/helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white"/>
         <img src="https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge&logo=huggingface&logoColor=white">
         <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
         <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
@@ -155,8 +155,8 @@
         <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
         <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka">
         <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white">
-        <img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue"><br>
-        <img title="helm charts" width="120px" src="./Pictures/helm chart.png">
+        <img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue">
+        <img src="https://img.shields.io/badge/helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white">
       </td>
     </tr>
     <tr>
