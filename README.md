@@ -103,7 +103,10 @@
       <td><b>🛠️ Backend</b></td>
       <td>
         <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
+        <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
         <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
+        <img src="https://img.shields.io/badge/sqlalchemy-%23D71F00.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white">
+        <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
       </td>
     </tr>
     <tr>
