@@ -10,15 +10,18 @@
 🌱 I’m hoping to learn more about: 
 <ol>
   <li>
-    Java - because almost every company uses Java ♨️!<br> 
-    <img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-<COLOR>.svg"><br>
+    <s>
+      Java - because almost every company uses Java ♨️!
+    </s>
+    <br>
+    <img src="https://img.shields.io/badge/STATUS-COMPLETE-success.svg"><br>
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
     <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
   </li>
   <br>
   <li>
     Full stack development to become a more complete developer - coding is so fun 👨‍💻!<br> 
-    <img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-<COLOR>.svg"><br>
+    <img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-blue.svg"><br>
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
@@ -27,7 +30,7 @@
   <br>
   <li>
     Data engineering - Developing robust data pipelines 🛠️!<br> 
-    <img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-<COLOR>.svg"><br>
+    <img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-blue.svg"><br>
     <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white">
     <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black">
     <img src="./Pictures/iceberg.svg" width="100px" height="30px">
