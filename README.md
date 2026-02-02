@@ -20,22 +20,20 @@
   </li>
   <br>
   <li>
+    Dev Ops - because apps shouldn't just work on localhost 🛠️!<br> 
+    <img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-blue.svg"><br>
+    <img src="https://img.shields.io/badge/helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white">
+    <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
+    <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white">
+  </li>
+  <br>
+  <li>
     Full stack development to become a more complete developer - coding is so fun 👨‍💻!<br> 
     <img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-blue.svg"><br>
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  </li>
-  <br>
-  <li>
-    Data engineering - Developing robust data pipelines 🛠️!<br> 
-    <img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-blue.svg"><br>
-    <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white">
-    <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black">
-    <img src="./Pictures/iceberg.svg" width="100px" height="30px">
-    <img src="./Pictures/arrow.png" height = "30px">
-    <img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black">
   </li>
   <br>
   <li>
@@ -174,6 +172,7 @@
     <tr>
       <td><b>🖥️ Infrastructure & Monitoring</b></td>
       <td>
+        <img src="https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white">
         <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white">
         <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white">
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
